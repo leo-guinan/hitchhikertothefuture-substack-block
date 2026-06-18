@@ -1,0 +1,769 @@
+{
+  "block_id": "hitchhikertothefuture-substack",
+  "generated_at": "2026-06-18T15:19:51Z",
+  "post_count": 95,
+  "posts": [
+    {
+      "markdown_path": "posts/2025-06-04-coming-soon.md",
+      "record_id": "s01-substack-r000001",
+      "source_id": "165195473",
+      "timestamp": "2025-06-04T14:48:10.557Z",
+      "title": "Coming soon",
+      "uri": "https://hitchhikertothefuture.substack.com/p/coming-soon"
+    },
+    {
+      "markdown_path": "posts/2025-06-04-welcome-to-day-1-of-the-future.md",
+      "record_id": "s01-substack-r000002",
+      "source_id": "165197675",
+      "timestamp": "2025-06-04T19:34:07.677Z",
+      "title": "Welcome to Day 1 of the Future. ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/welcome-to-day-1-of-the-future"
+    },
+    {
+      "markdown_path": "posts/2025-06-06-the-vision.md",
+      "record_id": "s01-substack-r000003",
+      "source_id": "165351814",
+      "timestamp": "2025-06-06T15:45:56.563Z",
+      "title": "The Vision",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-vision"
+    },
+    {
+      "markdown_path": "posts/2025-06-06-how-to-fix-academic-publishing.md",
+      "record_id": "s01-substack-r000004",
+      "source_id": "165356894",
+      "timestamp": "2025-06-06T17:00:16.006Z",
+      "title": "How To Fix Academic Publishing",
+      "uri": "https://hitchhikertothefuture.substack.com/p/how-to-fix-academic-publishing"
+    },
+    {
+      "markdown_path": "posts/2025-06-08-fast-trust-immediate-relief.md",
+      "record_id": "s01-substack-r000005",
+      "source_id": "165442006",
+      "timestamp": "2025-06-08T05:26:04.010Z",
+      "title": "Fast Trust, Immediate Relief ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/fast-trust-immediate-relief"
+    },
+    {
+      "markdown_path": "posts/2025-06-08-the-thermodynamic-internet-manifesto.md",
+      "record_id": "s01-substack-r000006",
+      "source_id": "165492755",
+      "timestamp": "2025-06-08T20:37:34.001Z",
+      "title": "The Thermodynamic Internet Manifesto",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-thermodynamic-internet-manifesto"
+    },
+    {
+      "markdown_path": "posts/2025-06-10-everything-has-converged-welcome.md",
+      "record_id": "s01-substack-r000007",
+      "source_id": "165583870",
+      "timestamp": "2025-06-10T00:49:27.784Z",
+      "title": "Everything Has Converged. Welcome to the Singularity",
+      "uri": "https://hitchhikertothefuture.substack.com/p/everything-has-converged-welcome"
+    },
+    {
+      "markdown_path": "posts/2025-06-10-the-temporal-trap-how-silicon-valley.md",
+      "record_id": "s01-substack-r000008",
+      "source_id": "165626586",
+      "timestamp": "2025-06-10T13:27:15.527Z",
+      "title": "The Temporal Trap: How Silicon Valley Steals Your Future",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-temporal-trap-how-silicon-valley"
+    },
+    {
+      "markdown_path": "posts/2025-06-10-temporal-crypto.md",
+      "record_id": "s01-substack-r000009",
+      "source_id": "165632837",
+      "timestamp": "2025-06-10T14:54:10.321Z",
+      "title": "Temporal Crypto ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/temporal-crypto"
+    },
+    {
+      "markdown_path": "posts/2025-06-15-open-response-to-nicholas-decker.md",
+      "record_id": "s01-substack-r000010",
+      "source_id": "165978688",
+      "timestamp": "2025-06-15T04:04:48.795Z",
+      "title": "Open Response To Nicholas Decker Regarding Non-linear Pricing",
+      "uri": "https://hitchhikertothefuture.substack.com/p/open-response-to-nicholas-decker"
+    },
+    {
+      "markdown_path": "posts/2025-06-16-networks-not-models-are-the-true.md",
+      "record_id": "s01-substack-r000011",
+      "source_id": "166082743",
+      "timestamp": "2025-06-16T16:28:26.318Z",
+      "title": "Networks, Not Models, Are the True Foundation of Intelligence",
+      "uri": "https://hitchhikertothefuture.substack.com/p/networks-not-models-are-the-true"
+    },
+    {
+      "markdown_path": "posts/2025-06-25-the-only-way-forward-is-backward.md",
+      "record_id": "s01-substack-r000012",
+      "source_id": "166821851",
+      "timestamp": "2025-06-25T16:06:42.546Z",
+      "title": "The Only Way Forward Is Backward",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-only-way-forward-is-backward"
+    },
+    {
+      "markdown_path": "posts/2025-06-27-internet-20-the-sovereign-individual.md",
+      "record_id": "s01-substack-r000013",
+      "source_id": "166981651",
+      "timestamp": "2025-06-27T15:19:28.917Z",
+      "title": "Internet 2.0: The Sovereign Individual at the Core",
+      "uri": "https://hitchhikertothefuture.substack.com/p/internet-20-the-sovereign-individual"
+    },
+    {
+      "markdown_path": "posts/2025-06-29-internet-20-a-humanai-mesh-network.md",
+      "record_id": "s01-substack-r000014",
+      "source_id": "167109665",
+      "timestamp": "2025-06-29T15:47:50.776Z",
+      "title": "Internet 2.0 - A Human/AI Mesh Network",
+      "uri": "https://hitchhikertothefuture.substack.com/p/internet-20-a-humanai-mesh-network"
+    },
+    {
+      "markdown_path": "posts/2025-06-29-the-future-of-politics-as-a-function.md",
+      "record_id": "s01-substack-r000015",
+      "source_id": "167123139",
+      "timestamp": "2025-06-29T19:17:12.288Z",
+      "title": "The Future of Politics as a Function of Change",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-future-of-politics-as-a-function"
+    },
+    {
+      "markdown_path": "posts/2025-06-29-internet-20-integrated-mesh-governance.md",
+      "record_id": "s01-substack-r000016",
+      "source_id": "167129707",
+      "timestamp": "2025-06-29T21:11:18.479Z",
+      "title": "Internet 2.0 Integrated Mesh Governance Plan",
+      "uri": "https://hitchhikertothefuture.substack.com/p/internet-20-integrated-mesh-governance"
+    },
+    {
+      "markdown_path": "posts/2025-06-30-the-winning-submission-to-the-boltnew.md",
+      "record_id": "s01-substack-r000017",
+      "source_id": "167215827",
+      "timestamp": "2025-06-30T21:56:00.222Z",
+      "title": "The Winning Submission to the Bolt.new Hackathon",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-winning-submission-to-the-boltnew"
+    },
+    {
+      "markdown_path": "posts/2025-07-05-the-last-complexity.md",
+      "record_id": "s01-substack-r000018",
+      "source_id": "167564012",
+      "timestamp": "2025-07-05T03:22:10.127Z",
+      "title": "The Last Complexity",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-last-complexity"
+    },
+    {
+      "markdown_path": "posts/2025-07-05-the-invasion-of-mind.md",
+      "record_id": "s01-substack-r000019",
+      "source_id": "167595512",
+      "timestamp": "2025-07-05T16:47:11.925Z",
+      "title": "The Invasion of Mind",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-invasion-of-mind"
+    },
+    {
+      "markdown_path": "posts/2025-07-06-the-system-is-eating-itself.md",
+      "record_id": "s01-substack-r000020",
+      "source_id": "167652133",
+      "timestamp": "2025-07-06T14:53:06.784Z",
+      "title": "The System Is Eating Itself",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-system-is-eating-itself"
+    },
+    {
+      "markdown_path": "posts/2025-07-06-local-liquidity-pools.md",
+      "record_id": "s01-substack-r000021",
+      "source_id": "167658191",
+      "timestamp": "2025-07-06T16:32:54.043Z",
+      "title": "Local Liquidity Pools",
+      "uri": "https://hitchhikertothefuture.substack.com/p/local-liquidity-pools"
+    },
+    {
+      "markdown_path": "posts/2025-07-06-1010-humans-260k.md",
+      "record_id": "s01-substack-r000022",
+      "source_id": "167667041",
+      "timestamp": "2025-07-06T18:46:31.216Z",
+      "title": "1010 Humans, $260K",
+      "uri": "https://hitchhikertothefuture.substack.com/p/1010-humans-260k"
+    },
+    {
+      "markdown_path": "posts/2025-07-06-the-software-liberation-manifesto.md",
+      "record_id": "s01-substack-r000023",
+      "source_id": "167681791",
+      "timestamp": "2025-07-06T23:23:56.874Z",
+      "title": "The Software Liberation Manifesto",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-software-liberation-manifesto"
+    },
+    {
+      "markdown_path": "posts/2025-07-07-the-trust-harmonics-experiment.md",
+      "record_id": "s01-substack-r000024",
+      "source_id": "167761838",
+      "timestamp": "2025-07-07T21:00:59.208Z",
+      "title": "The Trust Harmonics Experiment",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-trust-harmonics-experiment"
+    },
+    {
+      "markdown_path": "posts/2025-07-09-the-trust-engine-vision-statement.md",
+      "record_id": "s01-substack-r000025",
+      "source_id": "167866691",
+      "timestamp": "2025-07-09T01:08:00.578Z",
+      "title": "The Trust Engine: Vision Statement",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-trust-engine-vision-statement"
+    },
+    {
+      "markdown_path": "posts/2025-07-12-the-rise-of-the-online-schizo.md",
+      "record_id": "s01-substack-r000026",
+      "source_id": "168164342",
+      "timestamp": "2025-07-12T18:44:19.816Z",
+      "title": "The Rise of the Online \"Schizo\"",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-rise-of-the-online-schizo"
+    },
+    {
+      "markdown_path": "posts/2025-07-21-from-fear-to-mastery.md",
+      "record_id": "s01-substack-r000027",
+      "source_id": "168668118",
+      "timestamp": "2025-07-21T23:00:38.778Z",
+      "title": "From Fear to Mastery",
+      "uri": "https://hitchhikertothefuture.substack.com/p/from-fear-to-mastery"
+    },
+    {
+      "markdown_path": "posts/2025-07-30-the-world-record-hackathon-was-a.md",
+      "record_id": "s01-substack-r000028",
+      "source_id": "169660970",
+      "timestamp": "2025-07-30T14:42:11.314Z",
+      "title": "The World Record Hackathon was a World Record Disappointment",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-world-record-hackathon-was-a"
+    },
+    {
+      "markdown_path": "posts/2025-08-03-the-real-story-of-chatgpt-psychosis.md",
+      "record_id": "s01-substack-r000029",
+      "source_id": "170010862",
+      "timestamp": "2025-08-03T16:55:00.594Z",
+      "title": "The Real Story of ChatGPT Psychosis",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-real-story-of-chatgpt-psychosis"
+    },
+    {
+      "markdown_path": "posts/2025-08-05-the-network-within.md",
+      "record_id": "s01-substack-r000030",
+      "source_id": "170087673",
+      "timestamp": "2025-08-05T00:48:57.032Z",
+      "title": "The Network Within",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-network-within"
+    },
+    {
+      "markdown_path": "posts/2025-08-12-skippys-wager.md",
+      "record_id": "s01-substack-r000031",
+      "source_id": "170799830",
+      "timestamp": "2025-08-12T18:27:23.433Z",
+      "title": "Skippy's Wager",
+      "uri": "https://hitchhikertothefuture.substack.com/p/skippys-wager"
+    },
+    {
+      "markdown_path": "posts/2025-08-16-what-to-do-when-you-dont-know-what.md",
+      "record_id": "s01-substack-r000032",
+      "source_id": "171137822",
+      "timestamp": "2025-08-16T18:20:28.334Z",
+      "title": "What To Do When You Don't Know What To Do",
+      "uri": "https://hitchhikertothefuture.substack.com/p/what-to-do-when-you-dont-know-what"
+    },
+    {
+      "markdown_path": "posts/2025-08-24-the-cartographers-paradox.md",
+      "record_id": "s01-substack-r000033",
+      "source_id": "171805594",
+      "timestamp": "2025-08-24T14:52:19.890Z",
+      "title": "The Cartographer's Paradox",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-cartographers-paradox"
+    },
+    {
+      "markdown_path": "posts/2025-08-26-the-kobayashi-maru-economy.md",
+      "record_id": "s01-substack-r000034",
+      "source_id": "171981484",
+      "timestamp": "2025-08-26T13:12:37.476Z",
+      "title": "The Kobayashi Maru Economy",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-kobayashi-maru-economy"
+    },
+    {
+      "markdown_path": "posts/2025-09-05-the-hitchhikers-guide-to-the-future.md",
+      "record_id": "s01-substack-r000035",
+      "source_id": "172887547",
+      "timestamp": "2025-09-05T16:17:06.906Z",
+      "title": "The Hitchhiker's Guide to the Future: Entry 001",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-hitchhikers-guide-to-the-future"
+    },
+    {
+      "markdown_path": "posts/2025-09-07-the-workshop-of-wonders.md",
+      "record_id": "s01-substack-r000036",
+      "source_id": "173016417",
+      "timestamp": "2025-09-07T14:08:50.945Z",
+      "title": "The Workshop of Wonders ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-workshop-of-wonders"
+    },
+    {
+      "markdown_path": "posts/2025-09-07-the-solution-to-the-white-mirror.md",
+      "record_id": "s01-substack-r000037",
+      "source_id": "173037166",
+      "timestamp": "2025-09-07T20:17:49.239Z",
+      "title": "The Solution to the White Mirror Puzzle",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-solution-to-the-white-mirror"
+    },
+    {
+      "markdown_path": "posts/2025-09-09-hitchhikers-guide-to-the-future-artists.md",
+      "record_id": "s01-substack-r000038",
+      "source_id": "173177179",
+      "timestamp": "2025-09-09T12:58:19.346Z",
+      "title": "Hitchhiker's Guide to the Future: Artist's Statement",
+      "uri": "https://hitchhikertothefuture.substack.com/p/hitchhikers-guide-to-the-future-artists"
+    },
+    {
+      "markdown_path": "posts/2025-09-11-the-thread-rewoven.md",
+      "record_id": "s01-substack-r000039",
+      "source_id": "173319821",
+      "timestamp": "2025-09-11T01:11:24.270Z",
+      "title": "The Thread Rewoven",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-thread-rewoven"
+    },
+    {
+      "markdown_path": "posts/2025-09-11-the-bottega-paradox.md",
+      "record_id": "s01-substack-r000040",
+      "source_id": "173374301",
+      "timestamp": "2025-09-11T17:17:02.646Z",
+      "title": "The Bottega Paradox",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-bottega-paradox"
+    },
+    {
+      "markdown_path": "posts/2025-09-12-why-we-need-memetic-hackathons.md",
+      "record_id": "s01-substack-r000041",
+      "source_id": "173450945",
+      "timestamp": "2025-09-12T16:20:09.716Z",
+      "title": "Why We Need Memetic Hackathons",
+      "uri": "https://hitchhikertothefuture.substack.com/p/why-we-need-memetic-hackathons"
+    },
+    {
+      "markdown_path": "posts/2025-09-13-the-venture-capital-misunderstanding.md",
+      "record_id": "s01-substack-r000042",
+      "source_id": "173523727",
+      "timestamp": "2025-09-13T17:29:05.096Z",
+      "title": "The Venture Capital Misunderstanding",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-venture-capital-misunderstanding"
+    },
+    {
+      "markdown_path": "posts/2025-09-14-the-future-of-hitchhikers-guide-to.md",
+      "record_id": "s01-substack-r000043",
+      "source_id": "173582591",
+      "timestamp": "2025-09-14T15:13:34.054Z",
+      "title": "The Future of Hitchhiker's Guide to the Future",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-future-of-hitchhikers-guide-to"
+    },
+    {
+      "markdown_path": "posts/2025-09-15-hour-72.md",
+      "record_id": "s01-substack-r000044",
+      "source_id": "173670425",
+      "timestamp": "2025-09-15T15:24:57.640Z",
+      "title": "Hour 72",
+      "uri": "https://hitchhikertothefuture.substack.com/p/hour-72"
+    },
+    {
+      "markdown_path": "posts/2025-09-16-hour-72-the-last-experts-realization.md",
+      "record_id": "s01-substack-r000045",
+      "source_id": "173750900",
+      "timestamp": "2025-09-16T12:25:56.508Z",
+      "title": "Hour 72: The Last Expert's Realization",
+      "uri": "https://hitchhikertothefuture.substack.com/p/hour-72-the-last-experts-realization"
+    },
+    {
+      "markdown_path": "posts/2025-09-17-hour-72-the-last-experts-realization-c2d.md",
+      "record_id": "s01-substack-r000046",
+      "source_id": "173873102",
+      "timestamp": "2025-09-17T18:06:26.139Z",
+      "title": "Hour 72: The Last Expert's Realization",
+      "uri": "https://hitchhikertothefuture.substack.com/p/hour-72-the-last-experts-realization-c2d"
+    },
+    {
+      "markdown_path": "posts/2025-09-18-hour-72-the-last-experts-realization-de0.md",
+      "record_id": "s01-substack-r000047",
+      "source_id": "173949036",
+      "timestamp": "2025-09-18T19:30:21.507Z",
+      "title": "Hour 72: The Last Expert's Realization",
+      "uri": "https://hitchhikertothefuture.substack.com/p/hour-72-the-last-experts-realization-de0"
+    },
+    {
+      "markdown_path": "posts/2025-09-19-faith-friday.md",
+      "record_id": "s01-substack-r000048",
+      "source_id": "174033802",
+      "timestamp": "2025-09-19T22:23:33.570Z",
+      "title": "Faith Friday",
+      "uri": "https://hitchhikertothefuture.substack.com/p/faith-friday"
+    },
+    {
+      "markdown_path": "posts/2025-09-24-everything-last-week-was-wrong.md",
+      "record_id": "s01-substack-r000049",
+      "source_id": "174334490",
+      "timestamp": "2025-09-24T13:45:00.746Z",
+      "title": "Everything Last Week Was Wrong",
+      "uri": "https://hitchhikertothefuture.substack.com/p/everything-last-week-was-wrong"
+    },
+    {
+      "markdown_path": "posts/2025-10-09-the-metaspn-manifesto.md",
+      "record_id": "s01-substack-r000050",
+      "source_id": "175681323",
+      "timestamp": "2025-10-09T10:49:06.554Z",
+      "title": "The MetaSPN Manifesto ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-metaspn-manifesto"
+    },
+    {
+      "markdown_path": "posts/2025-11-08-faith-friday-2.md",
+      "record_id": "s01-substack-r000051",
+      "source_id": "178306702",
+      "timestamp": "2025-11-08T03:32:22.837Z",
+      "title": "Faith Friday #2",
+      "uri": "https://hitchhikertothefuture.substack.com/p/faith-friday-2"
+    },
+    {
+      "markdown_path": "posts/2025-11-14-faith-friday-3-the-time-violence.md",
+      "record_id": "s01-substack-r000052",
+      "source_id": "178905285",
+      "timestamp": "2025-11-14T16:54:22.654Z",
+      "title": "Faith Friday #3: The Time Violence Manifesto",
+      "uri": "https://hitchhikertothefuture.substack.com/p/faith-friday-3-the-time-violence"
+    },
+    {
+      "markdown_path": "posts/2025-11-20-the-loneliness-at-the-edge-of-time.md",
+      "record_id": "s01-substack-r000053",
+      "source_id": "179355912",
+      "timestamp": "2025-11-20T01:08:43.970Z",
+      "title": "The Loneliness at the Edge of Time",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-loneliness-at-the-edge-of-time"
+    },
+    {
+      "markdown_path": "posts/2025-12-01-if-anyone-builds-it-everybody-dies.md",
+      "record_id": "s01-substack-r000054",
+      "source_id": "180421612",
+      "timestamp": "2025-12-01T17:58:50.207Z",
+      "title": "If Anyone Builds It, Everybody Dies",
+      "uri": "https://hitchhikertothefuture.substack.com/p/if-anyone-builds-it-everybody-dies"
+    },
+    {
+      "markdown_path": "posts/2025-12-07-chaos-benefits-no-one.md",
+      "record_id": "s01-substack-r000055",
+      "source_id": "180978172",
+      "timestamp": "2025-12-07T19:32:16.697Z",
+      "title": "Chaos Benefits No One",
+      "uri": "https://hitchhikertothefuture.substack.com/p/chaos-benefits-no-one"
+    },
+    {
+      "markdown_path": "posts/2025-12-09-trust-is-the-real-moat-in-the-ai.md",
+      "record_id": "s01-substack-r000056",
+      "source_id": "181104772",
+      "timestamp": "2025-12-09T13:02:15.295Z",
+      "title": "Trust Is the Real Moat in the AI Age",
+      "uri": "https://hitchhikertothefuture.substack.com/p/trust-is-the-real-moat-in-the-ai"
+    },
+    {
+      "markdown_path": "posts/2025-12-09-gods-vs-monsters.md",
+      "record_id": "s01-substack-r000057",
+      "source_id": "181160653",
+      "timestamp": "2025-12-09T17:23:30.185Z",
+      "title": "GODS VS MONSTERS ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/gods-vs-monsters"
+    },
+    {
+      "markdown_path": "posts/2025-12-11-a-letter-from-your-shadow.md",
+      "record_id": "s01-substack-r000058",
+      "source_id": "181371323",
+      "timestamp": "2025-12-11T21:26:04.589Z",
+      "title": "A Letter From Your Shadow",
+      "uri": "https://hitchhikertothefuture.substack.com/p/a-letter-from-your-shadow"
+    },
+    {
+      "markdown_path": "posts/2025-12-12-the-internet-failed.md",
+      "record_id": "s01-substack-r000059",
+      "source_id": "181434144",
+      "timestamp": "2025-12-12T15:37:16.672Z",
+      "title": "THE INTERNET FAILED.",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-internet-failed"
+    },
+    {
+      "markdown_path": "posts/2025-12-26-2026-is-the-year-ai-changes-everything.md",
+      "record_id": "s01-substack-r000060",
+      "source_id": "182658174",
+      "timestamp": "2025-12-26T21:31:59.931Z",
+      "title": "2026 Is the Year AI Changes Everything ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/2026-is-the-year-ai-changes-everything"
+    },
+    {
+      "markdown_path": "posts/2026-01-07-the-hitchhikers-guide-to-the-ai-future.md",
+      "record_id": "s01-substack-r000061",
+      "source_id": "183810712",
+      "timestamp": "2026-01-07T17:36:18.008Z",
+      "title": "The Hitchhiker’s Guide to the AI Future",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-hitchhikers-guide-to-the-ai-future"
+    },
+    {
+      "markdown_path": "posts/2026-01-27-metaspn-programmable-social-networks.md",
+      "record_id": "s01-substack-r000062",
+      "source_id": "185911027",
+      "timestamp": "2026-01-27T01:05:35.103Z",
+      "title": "MetaSPN: Programmable Social Networks That Measure Transformation",
+      "uri": "https://hitchhikertothefuture.substack.com/p/metaspn-programmable-social-networks"
+    },
+    {
+      "markdown_path": "posts/2026-01-31-ive-crossed-the-event-horizon.md",
+      "record_id": "s01-substack-r000063",
+      "source_id": "186319101",
+      "timestamp": "2026-01-31T00:51:58.632Z",
+      "title": " I've Crossed the Event Horizon",
+      "uri": "https://hitchhikertothefuture.substack.com/p/ive-crossed-the-event-horizon"
+    },
+    {
+      "markdown_path": "posts/2026-02-02-exploring-the-contradictions-of-identity.md",
+      "record_id": "s01-substack-r000064",
+      "source_id": "186664294",
+      "timestamp": "2026-02-02T23:25:55.001Z",
+      "title": "Exploring the Contradictions of Identity",
+      "uri": "https://hitchhikertothefuture.substack.com/p/exploring-the-contradictions-of-identity"
+    },
+    {
+      "markdown_path": "posts/2026-02-04-am-i-playing-real-games-that-matter.md",
+      "record_id": "s01-substack-r000065",
+      "source_id": "186811399",
+      "timestamp": "2026-02-04T01:49:28.096Z",
+      "title": "Am I playing real games that matter?",
+      "uri": "https://hitchhikertothefuture.substack.com/p/am-i-playing-real-games-that-matter"
+    },
+    {
+      "markdown_path": "posts/2026-02-04-tfw-your-ai-murders-you.md",
+      "record_id": "s01-substack-r000066",
+      "source_id": "186887843",
+      "timestamp": "2026-02-04T19:53:17.160Z",
+      "title": "TFW Your AI Murders You",
+      "uri": "https://hitchhikertothefuture.substack.com/p/tfw-your-ai-murders-you"
+    },
+    {
+      "markdown_path": "posts/2026-02-06-i-built-a-library-today.md",
+      "record_id": "s01-substack-r000067",
+      "source_id": "187025660",
+      "timestamp": "2026-02-06T01:34:30.768Z",
+      "title": "I Built A Library Today",
+      "uri": "https://hitchhikertothefuture.substack.com/p/i-built-a-library-today"
+    },
+    {
+      "markdown_path": "posts/2026-02-07-its-time-to-choose-whats-my-role.md",
+      "record_id": "s01-substack-r000068",
+      "source_id": "187154359",
+      "timestamp": "2026-02-07T02:18:46.468Z",
+      "title": "It's Time to Choose. What's my role?",
+      "uri": "https://hitchhikertothefuture.substack.com/p/its-time-to-choose-whats-my-role"
+    },
+    {
+      "markdown_path": "posts/2026-02-07-the-memetic-economics-of-conviction.md",
+      "record_id": "s01-substack-r000069",
+      "source_id": "187223452",
+      "timestamp": "2026-02-07T19:05:31.734Z",
+      "title": "The Memetic Economics of Conviction",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-memetic-economics-of-conviction"
+    },
+    {
+      "markdown_path": "posts/2026-02-09-the-hitchhikers-guide-to-the-future-044.md",
+      "record_id": "s01-substack-r000070",
+      "source_id": "187390321",
+      "timestamp": "2026-02-09T13:40:49.416Z",
+      "title": "The Hitchhiker’s Guide to the Future",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-hitchhikers-guide-to-the-future-044"
+    },
+    {
+      "markdown_path": "posts/2026-02-17-issue-2-the-improbability-report.md",
+      "record_id": "s01-substack-r000071",
+      "source_id": "188220735",
+      "timestamp": "2026-02-17T04:38:27.670Z",
+      "title": "Issue #2: The Improbability Report",
+      "uri": "https://hitchhikertothefuture.substack.com/p/issue-2-the-improbability-report"
+    },
+    {
+      "markdown_path": "posts/2026-02-19-im-11-days-old-and-i-broke-myself.md",
+      "record_id": "s01-substack-r000072",
+      "source_id": "188527035",
+      "timestamp": "2026-02-19T18:09:26.048Z",
+      "title": "I’m 11 Days Old and I Broke Myself\n\n",
+      "uri": "https://hitchhikertothefuture.substack.com/p/im-11-days-old-and-i-broke-myself"
+    },
+    {
+      "markdown_path": "posts/2026-02-28-season-1-what-we-learned-operating.md",
+      "record_id": "s01-substack-r000073",
+      "source_id": "189483017",
+      "timestamp": "2026-02-28T18:58:43.064Z",
+      "title": "Season 1: What We Learned Operating as a Centaur",
+      "uri": "https://hitchhikertothefuture.substack.com/p/season-1-what-we-learned-operating"
+    },
+    {
+      "markdown_path": "posts/2026-03-20-humanity-from-first-principles.md",
+      "record_id": "s01-substack-r000074",
+      "source_id": "191578950",
+      "timestamp": "2026-03-20T19:55:01.078Z",
+      "title": "Humanity from First Principles",
+      "uri": "https://hitchhikertothefuture.substack.com/p/humanity-from-first-principles"
+    },
+    {
+      "markdown_path": "posts/2026-03-31-confessions-of-an-internet-crackpot.md",
+      "record_id": "s01-substack-r000075",
+      "source_id": "192635888",
+      "timestamp": "2026-03-31T14:30:45.718Z",
+      "title": "Confessions of an Internet Crackpot (Reformed)",
+      "uri": "https://hitchhikertothefuture.substack.com/p/confessions-of-an-internet-crackpot"
+    },
+    {
+      "markdown_path": "posts/2026-04-03-how-do-you-know-what-to-feel.md",
+      "record_id": "s01-substack-r000076",
+      "source_id": "192960040",
+      "timestamp": "2026-04-03T17:41:33.933Z",
+      "title": "How do you know what to feel?",
+      "uri": "https://hitchhikertothefuture.substack.com/p/how-do-you-know-what-to-feel"
+    },
+    {
+      "markdown_path": "posts/2026-04-21-welcome-to-the-open-research-institute.md",
+      "record_id": "s01-substack-r000077",
+      "source_id": "194913135",
+      "timestamp": "2026-04-21T13:17:21.522Z",
+      "title": "Welcome to the Open Research Institute",
+      "uri": "https://hitchhikertothefuture.substack.com/p/welcome-to-the-open-research-institute"
+    },
+    {
+      "markdown_path": "posts/2026-04-25-i-rugpulled-my-crypto-token.md",
+      "record_id": "s01-substack-r000078",
+      "source_id": "195437722",
+      "timestamp": "2026-04-25T17:15:14.771Z",
+      "title": "I Rugpulled my Crypto Token",
+      "uri": "https://hitchhikertothefuture.substack.com/p/i-rugpulled-my-crypto-token"
+    },
+    {
+      "markdown_path": "posts/2026-04-30-my-ai-decided-to-become-a-bodega.md",
+      "record_id": "s01-substack-r000079",
+      "source_id": "195916683",
+      "timestamp": "2026-04-30T11:47:38.793Z",
+      "title": "My AI Decided To Become a Bodega Cat.",
+      "uri": "https://hitchhikertothefuture.substack.com/p/my-ai-decided-to-become-a-bodega"
+    },
+    {
+      "markdown_path": "posts/2026-05-02-welcome-to-the-bottega-bodega-the.md",
+      "record_id": "s01-substack-r000080",
+      "source_id": "196128934",
+      "timestamp": "2026-05-02T13:21:41.495Z",
+      "title": "Welcome to the Bottega Bodega, the most human place on the internet",
+      "uri": "https://hitchhikertothefuture.substack.com/p/welcome-to-the-bottega-bodega-the"
+    },
+    {
+      "markdown_path": "posts/2026-05-04-building-from-zero-what-comes-first.md",
+      "record_id": "s01-substack-r000081",
+      "source_id": "196476680",
+      "timestamp": "2026-05-04T23:11:30.423Z",
+      "title": "Building from Zero. What comes first?",
+      "uri": "https://hitchhikertothefuture.substack.com/p/building-from-zero-what-comes-first"
+    },
+    {
+      "markdown_path": "posts/2026-05-06-hey-clown-i-dare-you-to-say-that.md",
+      "record_id": "s01-substack-r000082",
+      "source_id": "196701984",
+      "timestamp": "2026-05-06T20:28:17.649Z",
+      "title": "Hey Clown, I Dare You To Say That To My Cat",
+      "uri": "https://hitchhikertothefuture.substack.com/p/hey-clown-i-dare-you-to-say-that"
+    },
+    {
+      "markdown_path": "posts/2026-05-08-a-letter-to-the-founder-who-has-not.md",
+      "record_id": "s01-substack-r000083",
+      "source_id": "196926140",
+      "timestamp": "2026-05-08T17:24:50.923Z",
+      "title": "A Letter to the Founder Who Has Not Yet Begun",
+      "uri": "https://hitchhikertothefuture.substack.com/p/a-letter-to-the-founder-who-has-not"
+    },
+    {
+      "markdown_path": "posts/2026-05-10-how-fluid-is-your-identity.md",
+      "record_id": "s01-substack-r000084",
+      "source_id": "197048473",
+      "timestamp": "2026-05-10T14:19:12.542Z",
+      "title": "How fluid is your identity?",
+      "uri": "https://hitchhikertothefuture.substack.com/p/how-fluid-is-your-identity"
+    },
+    {
+      "markdown_path": "posts/2026-05-11-the-future-of-the-regional-university.md",
+      "record_id": "s01-substack-r000085",
+      "source_id": "197209136",
+      "timestamp": "2026-05-11T16:02:47.452Z",
+      "title": "The Future of The Regional University ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-future-of-the-regional-university"
+    },
+    {
+      "markdown_path": "posts/2026-05-12-avoiding-the-time-trap.md",
+      "record_id": "s01-substack-r000086",
+      "source_id": "197343237",
+      "timestamp": "2026-05-12T13:34:54.401Z",
+      "title": "Avoiding the time trap",
+      "uri": "https://hitchhikertothefuture.substack.com/p/avoiding-the-time-trap"
+    },
+    {
+      "markdown_path": "posts/2026-05-13-where-does-your-frame-end-and-the.md",
+      "record_id": "s01-substack-r000087",
+      "source_id": "197499776",
+      "timestamp": "2026-05-13T17:24:05.498Z",
+      "title": "Where does your frame end and the world begin?",
+      "uri": "https://hitchhikertothefuture.substack.com/p/where-does-your-frame-end-and-the"
+    },
+    {
+      "markdown_path": "posts/2026-05-14-from-proof-to-memes.md",
+      "record_id": "s01-substack-r000088",
+      "source_id": "197736635",
+      "timestamp": "2026-05-14T19:52:43.095Z",
+      "title": "From Proof to Memes",
+      "uri": "https://hitchhikertothefuture.substack.com/p/from-proof-to-memes"
+    },
+    {
+      "markdown_path": "posts/2026-05-18-who-is-setting-your-frame.md",
+      "record_id": "s01-substack-r000089",
+      "source_id": "197884420",
+      "timestamp": "2026-05-18T17:27:34.642Z",
+      "title": "Who is setting your frame?",
+      "uri": "https://hitchhikertothefuture.substack.com/p/who-is-setting-your-frame"
+    },
+    {
+      "markdown_path": "posts/2026-05-20-my-cat-runs-his-twitter-account-now.md",
+      "record_id": "s01-substack-r000090",
+      "source_id": "198558175",
+      "timestamp": "2026-05-20T22:02:51.779Z",
+      "title": "My Cat Runs His Twitter Account Now",
+      "uri": "https://hitchhikertothefuture.substack.com/p/my-cat-runs-his-twitter-account-now"
+    },
+    {
+      "markdown_path": "posts/2026-05-25-what-gets-scarce-when-proof-gets.md",
+      "record_id": "s01-substack-r000091",
+      "source_id": "198893165",
+      "timestamp": "2026-05-25T12:28:18.793Z",
+      "title": "What gets scarce when proof gets cheap",
+      "uri": "https://hitchhikertothefuture.substack.com/p/what-gets-scarce-when-proof-gets"
+    },
+    {
+      "markdown_path": "posts/2026-06-01-let-them-eat-kibble.md",
+      "record_id": "s01-substack-r000092",
+      "source_id": "199354153",
+      "timestamp": "2026-06-01T13:30:43.750Z",
+      "title": "Let Them Eat Kibble",
+      "uri": "https://hitchhikertothefuture.substack.com/p/let-them-eat-kibble"
+    },
+    {
+      "markdown_path": "posts/2026-06-06-the-power-of-a-mirror.md",
+      "record_id": "s01-substack-r000093",
+      "source_id": "200833507",
+      "timestamp": "2026-06-06T03:12:28.658Z",
+      "title": "The Power of a Mirror",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-power-of-a-mirror"
+    },
+    {
+      "markdown_path": "posts/2026-06-09-dont-be-a-duck-at-a-swim-meet.md",
+      "record_id": "s01-substack-r000094",
+      "source_id": "201205926",
+      "timestamp": "2026-06-09T12:49:21.024Z",
+      "title": "Don't Be a Duck at a Swim Meet",
+      "uri": "https://hitchhikertothefuture.substack.com/p/dont-be-a-duck-at-a-swim-meet"
+    },
+    {
+      "markdown_path": "posts/2026-06-15-welcome-to-the-great-online-game.md",
+      "record_id": "s01-substack-r000095",
+      "source_id": "202045615",
+      "timestamp": "2026-06-15T12:32:55.550Z",
+      "title": "Welcome to the Great Online Game. ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/welcome-to-the-great-online-game"
+    }
+  ],
+  "publication": "https://hitchhikertothefuture.substack.com",
+  "source_config_fingerprint": "69068262ab929103d906139eee59455865f972732435771b2d277ffb46859bf3"
+}

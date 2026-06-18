@@ -1,0 +1,243 @@
+{
+  "audience": "everyone",
+  "audio_items": [
+    {
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/166821851/tts/edc10362-d08f-4d6d-a090-d0bb59f1049b/en-US-AlloyTurboMultilingualNeural.mp3",
+      "post_id": 166821851,
+      "status": "completed",
+      "type": "tts",
+      "voice_id": "en-US-AlloyTurboMultilingualNeural"
+    }
+  ],
+  "body_html": null,
+  "body_json": null,
+  "canonical_url": "https://hitchhikertothefuture.substack.com/p/the-only-way-forward-is-backward",
+  "child_comment_count": 0,
+  "comment_count": 0,
+  "coverImagePalette": {
+    "DarkMuted": {
+      "population": 527,
+      "rgb": [
+        38,
+        58,
+        82
+      ]
+    },
+    "DarkVibrant": {
+      "population": 210,
+      "rgb": [
+        23,
+        148,
+        128
+      ]
+    },
+    "LightMuted": {
+      "population": 482,
+      "rgb": [
+        143,
+        192,
+        153
+      ]
+    },
+    "LightVibrant": {
+      "population": 505,
+      "rgb": [
+        248,
+        233,
+        176
+      ]
+    },
+    "Muted": {
+      "population": 445,
+      "rgb": [
+        84,
+        147,
+        162
+      ]
+    },
+    "Vibrant": {
+      "population": 486,
+      "rgb": [
+        249,
+        173,
+        48
+      ]
+    }
+  },
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!02HB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f89a6a8-4975-470d-8dbc-17a790caaa09_1536x1024.png",
+  "cover_image_is_explicit": false,
+  "cover_image_is_square": false,
+  "default_comment_sort": null,
+  "description": "(Forking the Internet to Make It Weird Again)",
+  "editor_v2": false,
+  "free_unlock_required": false,
+  "hasCashtag": false,
+  "has_dynamic_content": false,
+  "has_voiceover": false,
+  "headlineTest": null,
+  "id": 166821851,
+  "is_geoblocked": false,
+  "is_section_pinned": false,
+  "language": "en",
+  "pins": [],
+  "podcastFields": {
+    "draft_free_podcast_duration": null,
+    "draft_free_podcast_url": null,
+    "free_podcast_duration": null,
+    "free_podcast_url": null,
+    "hide_from_feed": false,
+    "podcast_episode_number": null,
+    "podcast_episode_type": null,
+    "podcast_season_number": null,
+    "post_id": 166821851,
+    "preview_contains_ad": false,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastPreviewUpload": null,
+  "podcastUpload": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "postCountryBlocks": [],
+  "postTags": [
+    {
+      "hidden": false,
+      "id": "5aced991-e861-48a0-baa1-b2a327f96bee",
+      "name": "Reverse Time",
+      "publication_id": 5235543,
+      "slug": "reverse-time"
+    },
+    {
+      "hidden": false,
+      "id": "935f3a1e-da1e-4856-bd6b-87adcf061d0a",
+      "name": "Internet 2.0",
+      "publication_id": 5235543,
+      "slug": "internet-20"
+    },
+    {
+      "hidden": false,
+      "id": "dde3f7ba-0c73-4a83-b36f-89c241418683",
+      "name": "A new internet",
+      "publication_id": 5235543,
+      "slug": "a-new-internet"
+    }
+  ],
+  "post_date": "2025-06-25T16:06:42.546Z",
+  "post_preview_limit": null,
+  "publication_id": 5235543,
+  "publishedBylines": [
+    {
+      "bestseller_tier": null,
+      "bio": "Hitchhiker to the Future. Mapping waystations. Building what comes after the collapse. Follow the symbols to find the humans. ORI",
+      "handle": "hitchhikertothefuture",
+      "id": 24975997,
+      "is_guest": false,
+      "name": "Leo Guinan",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/f551a560-e6ba-47f9-8cbf-0922cd0fcec1_1330x1330.jpeg",
+      "previous_name": null,
+      "profile_set_up_at": "2022-04-27T11:11:46.207Z",
+      "publicationUsers": [
+        {
+          "id": 5340464,
+          "is_primary": true,
+          "public": true,
+          "publication": {
+            "author_id": 24975997,
+            "community_enabled": true,
+            "copyright": "Leo Guinan",
+            "created_at": "2025-06-04T14:48:10.377Z",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "email_from_name": null,
+            "explicit": false,
+            "founding_plan_name": "Bottega Patron",
+            "hero_text": "Notes from the future to help me build my lab.",
+            "homepage_type": "newspaper",
+            "id": 5235543,
+            "invite_only": false,
+            "is_personal_mode": false,
+            "language": null,
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/3e7d4b88-a8a4-4b37-925d-70c78039925c_768x768.png",
+            "logo_url_wide": null,
+            "name": "Hitchhiker's Guide to the Future",
+            "payments_state": "disabled",
+            "primary_user_id": 24975997,
+            "subdomain": "hitchhikertothefuture",
+            "theme_var_background_pop": "#FF6719"
+          },
+          "publication_id": 5235543,
+          "role": "admin",
+          "user_id": 24975997
+        },
+        {
+          "id": 235330,
+          "is_primary": false,
+          "public": true,
+          "publication": {
+            "author_id": 24975997,
+            "community_enabled": true,
+            "copyright": "Leo Guinan",
+            "created_at": "2021-02-22T22:50:09.248Z",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "email_from_name": null,
+            "explicit": false,
+            "founding_plan_name": "Abundance Generator",
+            "hero_text": "In the world of AI, it's important that we start building abundant systems instead of scarce ones. I'll be showing you what abundant systems look like, why they are important, and what the consequences are and will be if we don't.",
+            "homepage_type": null,
+            "id": 294536,
+            "invite_only": false,
+            "is_personal_mode": false,
+            "language": null,
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c67b0e0f-0464-4c5c-8d94-7d39adc91df6_1024x1024.png",
+            "logo_url_wide": null,
+            "name": "Engineering Generosity",
+            "payments_state": "disabled",
+            "primary_user_id": null,
+            "subdomain": "engineeringgenerosity",
+            "theme_var_background_pop": "#786CFF"
+          },
+          "publication_id": 294536,
+          "role": "admin",
+          "user_id": 24975997
+        }
+      ],
+      "reader_installed_at": "2022-11-03T20:07:02.413Z",
+      "status": null,
+      "twitter_screen_name": "leo_guinan"
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 0,
+  "reactions": {
+    "❤": 0
+  },
+  "restacked_post_id": null,
+  "restacked_post_slug": null,
+  "restacked_pub_logo_url": null,
+  "restacked_pub_name": null,
+  "restacks": 1,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "section_name": null,
+  "section_slug": null,
+  "should_send_free_preview": false,
+  "slug": "the-only-way-forward-is-backward",
+  "social_title": null,
+  "subtitle": "(Forking the Internet to Make It Weird Again)",
+  "teaser_post_eligible": true,
+  "title": "The Only Way Forward Is Backward",
+  "top_exclusions": [],
+  "truncated_body_text": "Remember When Websites Felt Like Bedrooms?",
+  "type": "newsletter",
+  "videoUpload": null,
+  "video_upload_id": null,
+  "voiceoverUpload": null,
+  "voiceover_upload_id": null,
+  "wordcount": 449,
+  "write_comment_permissions": "everyone"
+}

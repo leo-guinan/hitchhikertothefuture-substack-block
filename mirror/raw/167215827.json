@@ -1,0 +1,373 @@
+{
+  "audience": "everyone",
+  "body_html": null,
+  "body_json": null,
+  "canonical_url": "https://hitchhikertothefuture.substack.com/p/the-winning-submission-to-the-boltnew",
+  "child_comment_count": 0,
+  "comment_count": 0,
+  "coverImagePalette": {
+    "DarkMuted": {
+      "population": 444,
+      "rgb": [
+        88,
+        59,
+        60
+      ]
+    },
+    "DarkVibrant": {
+      "population": 1,
+      "rgb": [
+        76,
+        36,
+        36
+      ]
+    },
+    "LightMuted": {
+      "population": 486,
+      "rgb": [
+        196,
+        179,
+        162
+      ]
+    },
+    "LightVibrant": {
+      "population": 474,
+      "rgb": [
+        239,
+        173,
+        147
+      ]
+    },
+    "Muted": {
+      "population": 498,
+      "rgb": [
+        161,
+        108,
+        93
+      ]
+    },
+    "Vibrant": {
+      "population": 542,
+      "rgb": [
+        187,
+        126,
+        106
+      ]
+    }
+  },
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/167215827/1d488704-86e9-453c-961b-42a41b297dbe/transcoded-00001.png",
+  "cover_image_is_explicit": false,
+  "cover_image_is_square": false,
+  "default_comment_sort": null,
+  "description": "I promised something that would win, and I believe I delivered.",
+  "editor_v2": false,
+  "free_unlock_required": false,
+  "hasCashtag": false,
+  "has_dynamic_content": false,
+  "has_voiceover": false,
+  "headlineTest": null,
+  "id": 167215827,
+  "is_geoblocked": false,
+  "is_section_pinned": false,
+  "language": "en",
+  "pins": [],
+  "podcastFields": {
+    "draft_free_podcast_duration": null,
+    "draft_free_podcast_url": null,
+    "free_podcast_duration": null,
+    "free_podcast_url": null,
+    "hide_from_feed": false,
+    "podcast_episode_number": null,
+    "podcast_episode_type": null,
+    "podcast_season_number": null,
+    "post_id": 167215827,
+    "preview_contains_ad": false,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastPreviewUpload": null,
+  "podcastUpload": {
+    "copyright_infringement": null,
+    "created_at": "2025-06-30T21:14:39.092Z",
+    "duration": 172.72163,
+    "explicit": false,
+    "height": null,
+    "id": "219fceb9-053d-4c29-b3aa-57a83e16b541",
+    "is_mux": null,
+    "live_stream_id": null,
+    "media_type": "audio",
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_preview_rendition_quality": null,
+    "mux_rendition_quality": null,
+    "name": null,
+    "post_id": 167215827,
+    "preview_duration": null,
+    "preview_start": null,
+    "primary_file_size": 2764111,
+    "publication_id": 5235543,
+    "src_media_upload_id": "1d488704-86e9-453c-961b-42a41b297dbe",
+    "state": "transcoded",
+    "thumbnail_id": 1,
+    "transcription": {
+      "approved_at": "2025-06-30T21:15:07.777Z",
+      "attention_vocab": null,
+      "captions_map": {
+        "en": {
+          "language": "en",
+          "original": true,
+          "url": "s3://substack-video/video_upload/post/167215827/219fceb9-053d-4c29-b3aa-57a83e16b541/1751318093/en.vtt"
+        }
+      },
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/167215827/219fceb9-053d-4c29-b3aa-57a83e16b541/1751318093/unaligned_transcription.json?Expires=1782400794&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=BUANNWeZhux1mTDaU562I5DwtFMg6IuUNQbvhns9~sRv~KBiq84541Ed5LOQ3ol-usSr607DurMXe7GAd-vHbm7VWJjAvr90DGStomP~WJYn0nL-kmnfSy5pL2e6Q5OI5jSHWEv3Rza2T2ttkSW96Ri99DuWSbPEklLBL~oRAS4Ee0JFb-G0VDnAWqgGJMtwG00MtlI03kdf2kpo9rcIVfXplFmH69v1GSgyoqr9q4zPny-PhagMU~swjuF9J7tjW1Mtb93rtL8oGXOJ1atyC2RS6UJTsdWJsgukYMKkAui9FNWGQmzJp~JrxWOZjRh8NjNsU0z96AYdRv5bQ2rj0A__",
+      "cdn_url": "https://substackcdn.com/video_upload/post/167215827/219fceb9-053d-4c29-b3aa-57a83e16b541/1751318093/transcription.json?Expires=1782400794&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=YQUI67WDwc85Ba45ENbjFL9V~Y5HjSSqKKURh3L-0WuLNcasdZfv-v7bFfTSg0nvZFR4ddSnOTittKlsMngNxUbIcBH3bfM2y1Gb~ixfuh8k3CjuWN0kvmgi5ue5y3Yevad1uMdOit2Cf9ZpsQc1L07HPFpJzlWYXTx~WOfGgQ11jG412hQSKZo337F~10FWDoOogVVJtvfzWM~CFicpbciUikU78iVFxfPSoGiAVfbxnCqwys25i4c9ImToSkaUwIVtE3VVBxj3quwVmubH0hOEuhFEPLykxiJp~LGq4s4irYrXVbUgpx9xlvHbVzhmmeQtTZnrl1XsFp0wBS44WA__",
+      "created_at": "2025-06-30T21:14:50.750Z",
+      "media_upload_id": "219fceb9-053d-4c29-b3aa-57a83e16b541",
+      "modal_call_id": "fc-01JZ1B2NAX7S63D6W7KCFN32TY",
+      "requested_by": 24975997,
+      "signed_captions": [
+        {
+          "language": "en",
+          "original": true,
+          "url": "https://substackcdn.com/video_upload/post/167215827/219fceb9-053d-4c29-b3aa-57a83e16b541/1751318093/en.vtt?Expires=1782400794&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=CKiW0mPi~-Myik9HB66wFAZpprARdHsVFVgNEt4aEB3TJX1MlBIferWHbxorGb6u4Pj23MZyiPeNgrjV6~yWH76aqpGEG6Prg2StkbVUtHBorQscfLUwCuHuV4LVYiNWQBeQONjB85raL4dHBgwS9Q4YK9urHOshYvoTzA-vaKEWez8XEzVYzvRjDVqfj98WJg-4GL04NeBWguJ5V3dHrOenI9KnxVZOv8owYgzLld~ROUD09~72D9CDG9G~iXPY8jz2tH~Sv2SJ5HJEDGsJ8mWmCeFiEahJ9~yEMsm6cmZAfx48L7~M3~pYZc69LOz4g4UB-rd7wy0-xLq5qPP8jQ__"
+        }
+      ],
+      "speaker_map": null,
+      "status": "transcribed",
+      "transcript_url": "s3://substack-video/video_upload/post/167215827/219fceb9-053d-4c29-b3aa-57a83e16b541/1751318093/transcription.json"
+    },
+    "uploaded_at": "2025-06-30T21:14:39.073Z",
+    "user_id": 24975997,
+    "width": null
+  },
+  "podcast_duration": 172.72163,
+  "podcast_episode_image_info": {
+    "isDefault": true,
+    "isDefaultArt": true,
+    "url": "https://substack.com/img/podcast/generic.png"
+  },
+  "podcast_episode_image_url": "https://substack.com/img/podcast/generic.png",
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": "219fceb9-053d-4c29-b3aa-57a83e16b541",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/219fceb9-053d-4c29-b3aa-57a83e16b541/src",
+  "postCountryBlocks": [],
+  "postTags": [
+    {
+      "hidden": false,
+      "id": "319ed7b8-43ac-42b1-9bac-709973bc23a8",
+      "name": "bolt.new hackathon",
+      "publication_id": 5235543,
+      "slug": "boltnew-hackathon"
+    },
+    {
+      "hidden": false,
+      "id": "935f3a1e-da1e-4856-bd6b-87adcf061d0a",
+      "name": "Internet 2.0",
+      "publication_id": 5235543,
+      "slug": "internet-20"
+    }
+  ],
+  "post_date": "2025-06-30T21:56:00.222Z",
+  "post_preview_limit": null,
+  "publication_id": 5235543,
+  "publishedBylines": [
+    {
+      "bestseller_tier": null,
+      "bio": "Hitchhiker to the Future. Mapping waystations. Building what comes after the collapse. Follow the symbols to find the humans. ORI",
+      "handle": "hitchhikertothefuture",
+      "id": 24975997,
+      "is_guest": false,
+      "name": "Leo Guinan",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/f551a560-e6ba-47f9-8cbf-0922cd0fcec1_1330x1330.jpeg",
+      "previous_name": null,
+      "profile_set_up_at": "2022-04-27T11:11:46.207Z",
+      "publicationUsers": [
+        {
+          "id": 5340464,
+          "is_primary": true,
+          "public": true,
+          "publication": {
+            "author_id": 24975997,
+            "community_enabled": true,
+            "copyright": "Leo Guinan",
+            "created_at": "2025-06-04T14:48:10.377Z",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "email_from_name": null,
+            "explicit": false,
+            "founding_plan_name": "Bottega Patron",
+            "hero_text": "Notes from the future to help me build my lab.",
+            "homepage_type": "newspaper",
+            "id": 5235543,
+            "invite_only": false,
+            "is_personal_mode": false,
+            "language": null,
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/3e7d4b88-a8a4-4b37-925d-70c78039925c_768x768.png",
+            "logo_url_wide": null,
+            "name": "Hitchhiker's Guide to the Future",
+            "payments_state": "disabled",
+            "primary_user_id": 24975997,
+            "subdomain": "hitchhikertothefuture",
+            "theme_var_background_pop": "#FF6719"
+          },
+          "publication_id": 5235543,
+          "role": "admin",
+          "user_id": 24975997
+        },
+        {
+          "id": 235330,
+          "is_primary": false,
+          "public": true,
+          "publication": {
+            "author_id": 24975997,
+            "community_enabled": true,
+            "copyright": "Leo Guinan",
+            "created_at": "2021-02-22T22:50:09.248Z",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "email_from_name": null,
+            "explicit": false,
+            "founding_plan_name": "Abundance Generator",
+            "hero_text": "In the world of AI, it's important that we start building abundant systems instead of scarce ones. I'll be showing you what abundant systems look like, why they are important, and what the consequences are and will be if we don't.",
+            "homepage_type": null,
+            "id": 294536,
+            "invite_only": false,
+            "is_personal_mode": false,
+            "language": null,
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c67b0e0f-0464-4c5c-8d94-7d39adc91df6_1024x1024.png",
+            "logo_url_wide": null,
+            "name": "Engineering Generosity",
+            "payments_state": "disabled",
+            "primary_user_id": null,
+            "subdomain": "engineeringgenerosity",
+            "theme_var_background_pop": "#786CFF"
+          },
+          "publication_id": 294536,
+          "role": "admin",
+          "user_id": 24975997
+        }
+      ],
+      "reader_installed_at": "2022-11-03T20:07:02.413Z",
+      "status": null,
+      "twitter_screen_name": "leo_guinan"
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 0,
+  "reactions": {
+    "❤": 0
+  },
+  "restacked_post_id": null,
+  "restacked_post_slug": null,
+  "restacked_pub_logo_url": null,
+  "restacked_pub_name": null,
+  "restacks": 0,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "section_name": null,
+  "section_slug": null,
+  "should_send_free_preview": false,
+  "slug": "the-winning-submission-to-the-boltnew",
+  "social_title": null,
+  "subtitle": "I promised something that would win, and I believe I delivered.",
+  "teaser_post_eligible": true,
+  "title": "The Winning Submission to the Bolt.new Hackathon",
+  "top_exclusions": [],
+  "truncated_body_text": "",
+  "type": "podcast",
+  "videoUpload": {
+    "copyright_infringement": null,
+    "created_at": "2025-06-30T21:11:05.875Z",
+    "duration": 172.7131,
+    "explicit": false,
+    "extractedAudio": {
+      "copyright_infringement": null,
+      "created_at": "2025-06-30T21:14:39.092Z",
+      "duration": 172.72163,
+      "explicit": false,
+      "height": null,
+      "id": "219fceb9-053d-4c29-b3aa-57a83e16b541",
+      "is_mux": null,
+      "live_stream_id": null,
+      "media_type": "audio",
+      "mux_asset_id": null,
+      "mux_playback_id": null,
+      "mux_preview_asset_id": null,
+      "mux_preview_playback_id": null,
+      "mux_preview_rendition_quality": null,
+      "mux_rendition_quality": null,
+      "name": null,
+      "post_id": 167215827,
+      "preview_duration": null,
+      "preview_start": null,
+      "primary_file_size": 2764111,
+      "publication_id": 5235543,
+      "src_media_upload_id": "1d488704-86e9-453c-961b-42a41b297dbe",
+      "state": "transcoded",
+      "thumbnail_id": 1,
+      "transcription": {
+        "approved_at": "2025-06-30T21:15:07.777Z",
+        "attention_vocab": null,
+        "captions_map": {
+          "en": {
+            "language": "en",
+            "original": true,
+            "url": "s3://substack-video/video_upload/post/167215827/219fceb9-053d-4c29-b3aa-57a83e16b541/1751318093/en.vtt"
+          }
+        },
+        "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/167215827/219fceb9-053d-4c29-b3aa-57a83e16b541/1751318093/unaligned_transcription.json?Expires=1782400794&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=BUANNWeZhux1mTDaU562I5DwtFMg6IuUNQbvhns9~sRv~KBiq84541Ed5LOQ3ol-usSr607DurMXe7GAd-vHbm7VWJjAvr90DGStomP~WJYn0nL-kmnfSy5pL2e6Q5OI5jSHWEv3Rza2T2ttkSW96Ri99DuWSbPEklLBL~oRAS4Ee0JFb-G0VDnAWqgGJMtwG00MtlI03kdf2kpo9rcIVfXplFmH69v1GSgyoqr9q4zPny-PhagMU~swjuF9J7tjW1Mtb93rtL8oGXOJ1atyC2RS6UJTsdWJsgukYMKkAui9FNWGQmzJp~JrxWOZjRh8NjNsU0z96AYdRv5bQ2rj0A__",
+        "cdn_url": "https://substackcdn.com/video_upload/post/167215827/219fceb9-053d-4c29-b3aa-57a83e16b541/1751318093/transcription.json?Expires=1782400794&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=YQUI67WDwc85Ba45ENbjFL9V~Y5HjSSqKKURh3L-0WuLNcasdZfv-v7bFfTSg0nvZFR4ddSnOTittKlsMngNxUbIcBH3bfM2y1Gb~ixfuh8k3CjuWN0kvmgi5ue5y3Yevad1uMdOit2Cf9ZpsQc1L07HPFpJzlWYXTx~WOfGgQ11jG412hQSKZo337F~10FWDoOogVVJtvfzWM~CFicpbciUikU78iVFxfPSoGiAVfbxnCqwys25i4c9ImToSkaUwIVtE3VVBxj3quwVmubH0hOEuhFEPLykxiJp~LGq4s4irYrXVbUgpx9xlvHbVzhmmeQtTZnrl1XsFp0wBS44WA__",
+        "created_at": "2025-06-30T21:14:50.750Z",
+        "media_upload_id": "219fceb9-053d-4c29-b3aa-57a83e16b541",
+        "modal_call_id": "fc-01JZ1B2NAX7S63D6W7KCFN32TY",
+        "requested_by": 24975997,
+        "signed_captions": [
+          {
+            "language": "en",
+            "original": true,
+            "url": "https://substackcdn.com/video_upload/post/167215827/219fceb9-053d-4c29-b3aa-57a83e16b541/1751318093/en.vtt?Expires=1782400794&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=CKiW0mPi~-Myik9HB66wFAZpprARdHsVFVgNEt4aEB3TJX1MlBIferWHbxorGb6u4Pj23MZyiPeNgrjV6~yWH76aqpGEG6Prg2StkbVUtHBorQscfLUwCuHuV4LVYiNWQBeQONjB85raL4dHBgwS9Q4YK9urHOshYvoTzA-vaKEWez8XEzVYzvRjDVqfj98WJg-4GL04NeBWguJ5V3dHrOenI9KnxVZOv8owYgzLld~ROUD09~72D9CDG9G~iXPY8jz2tH~Sv2SJ5HJEDGsJ8mWmCeFiEahJ9~yEMsm6cmZAfx48L7~M3~pYZc69LOz4g4UB-rd7wy0-xLq5qPP8jQ__"
+          }
+        ],
+        "speaker_map": null,
+        "status": "transcribed",
+        "transcript_url": "s3://substack-video/video_upload/post/167215827/219fceb9-053d-4c29-b3aa-57a83e16b541/1751318093/transcription.json"
+      },
+      "uploaded_at": "2025-06-30T21:14:39.073Z",
+      "user_id": 24975997,
+      "width": null
+    },
+    "height": 1280,
+    "id": "1d488704-86e9-453c-961b-42a41b297dbe",
+    "is_mux": true,
+    "live_stream_id": null,
+    "media_type": "video",
+    "mux_asset_id": "a2P11ePTHEsIwXPy1IJv4678d5ZSjwqlunL500W8P5rQ",
+    "mux_playback_id": "006SChSLZpaQ7GZ01TWw00jARnFlL8vz54ftCdtnp01KrqY",
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_preview_rendition_quality": null,
+    "mux_rendition_quality": "high",
+    "name": "HackathonVideo.mp4",
+    "post_id": 167215827,
+    "preview_duration": null,
+    "preview_start": null,
+    "primary_file_size": 207661193,
+    "publication_id": 5235543,
+    "src_media_upload_id": null,
+    "state": "transcoded",
+    "thumbnail_id": 1,
+    "transcription": null,
+    "uploaded_at": "2025-06-30T21:14:39.073Z",
+    "user_id": 24975997,
+    "width": 720
+  },
+  "video_upload_id": "1d488704-86e9-453c-961b-42a41b297dbe",
+  "voiceoverUpload": null,
+  "voiceover_upload_id": null,
+  "wordcount": 1,
+  "write_comment_permissions": "everyone"
+}

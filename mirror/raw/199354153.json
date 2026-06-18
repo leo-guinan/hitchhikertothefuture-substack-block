@@ -1,0 +1,214 @@
+{
+  "audience": "everyone",
+  "body_html": null,
+  "body_json": null,
+  "canonical_url": "https://hitchhikertothefuture.substack.com/p/let-them-eat-kibble",
+  "child_comment_count": 0,
+  "comment_count": 0,
+  "coverImagePalette": {
+    "DarkMuted": {
+      "population": 3,
+      "rgb": [
+        60,
+        60,
+        68
+      ]
+    },
+    "DarkVibrant": {
+      "population": 3,
+      "rgb": [
+        28,
+        68,
+        92
+      ]
+    },
+    "LightMuted": {
+      "population": 120,
+      "rgb": [
+        190,
+        191,
+        191
+      ]
+    },
+    "LightVibrant": {
+      "population": 0,
+      "rgb": [
+        163.37510729613737,
+        194.10643776824037,
+        214.02489270386263
+      ]
+    },
+    "Muted": {
+      "population": 3,
+      "rgb": [
+        84,
+        116,
+        140
+      ]
+    },
+    "Vibrant": {
+      "population": 6,
+      "rgb": [
+        72,
+        126,
+        161
+      ]
+    }
+  },
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!lZ6V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa39506b2-ff1d-4fce-87ab-8fe7a01fc8bf_1336x954.png",
+  "cover_image_is_explicit": false,
+  "cover_image_is_square": false,
+  "default_comment_sort": null,
+  "description": "Don't let cats drive rockets",
+  "editor_v2": false,
+  "free_unlock_required": false,
+  "hasCashtag": false,
+  "has_dynamic_content": false,
+  "has_voiceover": false,
+  "headlineTest": null,
+  "id": 199354153,
+  "is_geoblocked": false,
+  "is_section_pinned": false,
+  "language": "en",
+  "pins": [
+    5235543
+  ],
+  "podcastFields": {
+    "draft_free_podcast_duration": null,
+    "draft_free_podcast_url": null,
+    "free_podcast_duration": null,
+    "free_podcast_url": null,
+    "hide_from_feed": false,
+    "podcast_episode_number": null,
+    "podcast_episode_type": null,
+    "podcast_season_number": null,
+    "post_id": 199354153,
+    "preview_contains_ad": false,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastPreviewUpload": null,
+  "podcastUpload": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "postCountryBlocks": [],
+  "postTags": [],
+  "post_date": "2026-06-01T13:30:43.750Z",
+  "post_preview_limit": null,
+  "publication_id": 5235543,
+  "publishedBylines": [
+    {
+      "bestseller_tier": null,
+      "bio": "Hitchhiker to the Future. Mapping waystations. Building what comes after the collapse. Follow the symbols to find the humans. ORI",
+      "handle": "hitchhikertothefuture",
+      "id": 24975997,
+      "is_guest": false,
+      "name": "Leo Guinan",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/f551a560-e6ba-47f9-8cbf-0922cd0fcec1_1330x1330.jpeg",
+      "previous_name": null,
+      "profile_set_up_at": "2022-04-27T11:11:46.207Z",
+      "publicationUsers": [
+        {
+          "id": 5340464,
+          "is_primary": true,
+          "public": true,
+          "publication": {
+            "author_id": 24975997,
+            "community_enabled": true,
+            "copyright": "Leo Guinan",
+            "created_at": "2025-06-04T14:48:10.377Z",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "email_from_name": null,
+            "explicit": false,
+            "founding_plan_name": "Bottega Patron",
+            "hero_text": "Notes from the future to help me build my lab.",
+            "homepage_type": "newspaper",
+            "id": 5235543,
+            "invite_only": false,
+            "is_personal_mode": false,
+            "language": null,
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/3e7d4b88-a8a4-4b37-925d-70c78039925c_768x768.png",
+            "logo_url_wide": null,
+            "name": "Hitchhiker's Guide to the Future",
+            "payments_state": "disabled",
+            "primary_user_id": 24975997,
+            "subdomain": "hitchhikertothefuture",
+            "theme_var_background_pop": "#FF6719"
+          },
+          "publication_id": 5235543,
+          "role": "admin",
+          "user_id": 24975997
+        },
+        {
+          "id": 235330,
+          "is_primary": false,
+          "public": true,
+          "publication": {
+            "author_id": 24975997,
+            "community_enabled": true,
+            "copyright": "Leo Guinan",
+            "created_at": "2021-02-22T22:50:09.248Z",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "email_from_name": null,
+            "explicit": false,
+            "founding_plan_name": "Abundance Generator",
+            "hero_text": "In the world of AI, it's important that we start building abundant systems instead of scarce ones. I'll be showing you what abundant systems look like, why they are important, and what the consequences are and will be if we don't.",
+            "homepage_type": null,
+            "id": 294536,
+            "invite_only": false,
+            "is_personal_mode": false,
+            "language": null,
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c67b0e0f-0464-4c5c-8d94-7d39adc91df6_1024x1024.png",
+            "logo_url_wide": null,
+            "name": "Engineering Generosity",
+            "payments_state": "disabled",
+            "primary_user_id": null,
+            "subdomain": "engineeringgenerosity",
+            "theme_var_background_pop": "#786CFF"
+          },
+          "publication_id": 294536,
+          "role": "admin",
+          "user_id": 24975997
+        }
+      ],
+      "reader_installed_at": "2022-11-03T20:07:02.413Z",
+      "status": null,
+      "twitter_screen_name": "leo_guinan"
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 1,
+  "reactions": {
+    "❤": 1
+  },
+  "restacked_post_id": null,
+  "restacked_post_slug": null,
+  "restacked_pub_logo_url": null,
+  "restacked_pub_name": null,
+  "restacks": 1,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "section_name": null,
+  "section_slug": null,
+  "should_send_free_preview": false,
+  "slug": "let-them-eat-kibble",
+  "social_title": null,
+  "subtitle": "Don't let cats drive rockets",
+  "teaser_post_eligible": true,
+  "title": "Let Them Eat Kibble",
+  "top_exclusions": [],
+  "truncated_body_text": "“Your Majesty, you have a visitor.”",
+  "type": "newsletter",
+  "videoUpload": null,
+  "video_upload_id": null,
+  "voiceoverUpload": null,
+  "voiceover_upload_id": null,
+  "wordcount": 1860,
+  "write_comment_permissions": "everyone"
+}

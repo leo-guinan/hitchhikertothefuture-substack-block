@@ -1,0 +1,1727 @@
+{
+  "block_id": "hitchhikertothefuture-substack",
+  "created_at": "2026-06-18T15:19:51Z",
+  "records": [
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-06-04-coming-soon.md",
+        "raw_path": "raw/165195473.json",
+        "reaction_count": 0,
+        "slug": "coming-soon",
+        "subtitle": null,
+        "wordcount": 3
+      },
+      "record_id": "s01-substack-r000001",
+      "source_id": "165195473",
+      "source_type": "substack",
+      "text": "Coming soon\n\nThis is Hitchhiker&#39;s Guide to the Future.",
+      "timestamp": "2025-06-04T14:48:10.557Z",
+      "title": "Coming soon",
+      "uri": "https://hitchhikertothefuture.substack.com/p/coming-soon"
+    },
+    {
+      "metadata": {
+        "comment_count": 1,
+        "markdown_path": "posts/2025-06-04-welcome-to-day-1-of-the-future.md",
+        "raw_path": "raw/165197675.json",
+        "reaction_count": 3,
+        "slug": "welcome-to-day-1-of-the-future",
+        "subtitle": "Here's what you've missed along the way.",
+        "wordcount": 1739
+      },
+      "record_id": "s01-substack-r000002",
+      "source_id": "165197675",
+      "source_type": "substack",
+      "text": "Welcome to Day 1 of the Future. \n\nHere's what you've missed along the way.",
+      "timestamp": "2025-06-04T19:34:07.677Z",
+      "title": "Welcome to Day 1 of the Future. ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/welcome-to-day-1-of-the-future"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-06-06-the-vision.md",
+        "raw_path": "raw/165351814.json",
+        "reaction_count": 0,
+        "slug": "the-vision",
+        "subtitle": "A new internet is here.",
+        "wordcount": 171
+      },
+      "record_id": "s01-substack-r000003",
+      "source_id": "165351814",
+      "source_type": "substack",
+      "text": "The Vision\n\nA new internet is here.",
+      "timestamp": "2025-06-06T15:45:56.563Z",
+      "title": "The Vision",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-vision"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-06-06-how-to-fix-academic-publishing.md",
+        "raw_path": "raw/165356894.json",
+        "reaction_count": 1,
+        "slug": "how-to-fix-academic-publishing",
+        "subtitle": "In response to Seemay Chou's takedown of academic publishing.",
+        "wordcount": 400
+      },
+      "record_id": "s01-substack-r000004",
+      "source_id": "165356894",
+      "source_type": "substack",
+      "text": "How To Fix Academic Publishing\n\nIn response to Seemay Chou's takedown of academic publishing.",
+      "timestamp": "2025-06-06T17:00:16.006Z",
+      "title": "How To Fix Academic Publishing",
+      "uri": "https://hitchhikertothefuture.substack.com/p/how-to-fix-academic-publishing"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-06-08-fast-trust-immediate-relief.md",
+        "raw_path": "raw/165442006.json",
+        "reaction_count": 0,
+        "slug": "fast-trust-immediate-relief",
+        "subtitle": "A human-friendly aid architecture that routes need—not paperwork",
+        "wordcount": 424
+      },
+      "record_id": "s01-substack-r000005",
+      "source_id": "165442006",
+      "source_type": "substack",
+      "text": "Fast Trust, Immediate Relief \n\nA human-friendly aid architecture that routes need—not paperwork",
+      "timestamp": "2025-06-08T05:26:04.010Z",
+      "title": "Fast Trust, Immediate Relief ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/fast-trust-immediate-relief"
+    },
+    {
+      "metadata": {
+        "comment_count": 1,
+        "markdown_path": "posts/2025-06-08-the-thermodynamic-internet-manifesto.md",
+        "raw_path": "raw/165492755.json",
+        "reaction_count": 2,
+        "slug": "the-thermodynamic-internet-manifesto",
+        "subtitle": "An Engineering Appeal to the Second Law",
+        "wordcount": 755
+      },
+      "record_id": "s01-substack-r000006",
+      "source_id": "165492755",
+      "source_type": "substack",
+      "text": "The Thermodynamic Internet Manifesto\n\nAn Engineering Appeal to the Second Law",
+      "timestamp": "2025-06-08T20:37:34.001Z",
+      "title": "The Thermodynamic Internet Manifesto",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-thermodynamic-internet-manifesto"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-06-10-everything-has-converged-welcome.md",
+        "raw_path": "raw/165583870.json",
+        "reaction_count": 2,
+        "slug": "everything-has-converged-welcome",
+        "subtitle": "Now we declare war on complexity.",
+        "wordcount": 79
+      },
+      "record_id": "s01-substack-r000007",
+      "source_id": "165583870",
+      "source_type": "substack",
+      "text": "Everything Has Converged. Welcome to the Singularity\n\nNow we declare war on complexity.",
+      "timestamp": "2025-06-10T00:49:27.784Z",
+      "title": "Everything Has Converged. Welcome to the Singularity",
+      "uri": "https://hitchhikertothefuture.substack.com/p/everything-has-converged-welcome"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-06-10-the-temporal-trap-how-silicon-valley.md",
+        "raw_path": "raw/165626586.json",
+        "reaction_count": 0,
+        "slug": "the-temporal-trap-how-silicon-valley",
+        "subtitle": "That Ends Today",
+        "wordcount": 922
+      },
+      "record_id": "s01-substack-r000008",
+      "source_id": "165626586",
+      "source_type": "substack",
+      "text": "The Temporal Trap: How Silicon Valley Steals Your Future\n\nThat Ends Today",
+      "timestamp": "2025-06-10T13:27:15.527Z",
+      "title": "The Temporal Trap: How Silicon Valley Steals Your Future",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-temporal-trap-how-silicon-valley"
+    },
+    {
+      "metadata": {
+        "comment_count": 1,
+        "markdown_path": "posts/2025-06-10-temporal-crypto.md",
+        "raw_path": "raw/165632837.json",
+        "reaction_count": 1,
+        "slug": "temporal-crypto",
+        "subtitle": "A Trust-Weighted Problem-Solving Economy",
+        "wordcount": 3562
+      },
+      "record_id": "s01-substack-r000009",
+      "source_id": "165632837",
+      "source_type": "substack",
+      "text": "Temporal Crypto \n\nA Trust-Weighted Problem-Solving Economy",
+      "timestamp": "2025-06-10T14:54:10.321Z",
+      "title": "Temporal Crypto ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/temporal-crypto"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-06-15-open-response-to-nicholas-decker.md",
+        "raw_path": "raw/165978688.json",
+        "reaction_count": 0,
+        "slug": "open-response-to-nicholas-decker",
+        "subtitle": "When I tried to explain on X, I was giving \"crackpot\", so I'll try long-form",
+        "wordcount": 1046
+      },
+      "record_id": "s01-substack-r000010",
+      "source_id": "165978688",
+      "source_type": "substack",
+      "text": "Open Response To Nicholas Decker Regarding Non-linear Pricing\n\nWhen I tried to explain on X, I was giving \"crackpot\", so I'll try long-form",
+      "timestamp": "2025-06-15T04:04:48.795Z",
+      "title": "Open Response To Nicholas Decker Regarding Non-linear Pricing",
+      "uri": "https://hitchhikertothefuture.substack.com/p/open-response-to-nicholas-decker"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-06-16-networks-not-models-are-the-true.md",
+        "raw_path": "raw/166082743.json",
+        "reaction_count": 2,
+        "slug": "networks-not-models-are-the-true",
+        "subtitle": "Let's explore what intelligence really is.",
+        "wordcount": 518
+      },
+      "record_id": "s01-substack-r000011",
+      "source_id": "166082743",
+      "source_type": "substack",
+      "text": "Networks, Not Models, Are the True Foundation of Intelligence\n\nLet's explore what intelligence really is.",
+      "timestamp": "2025-06-16T16:28:26.318Z",
+      "title": "Networks, Not Models, Are the True Foundation of Intelligence",
+      "uri": "https://hitchhikertothefuture.substack.com/p/networks-not-models-are-the-true"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-06-25-the-only-way-forward-is-backward.md",
+        "raw_path": "raw/166821851.json",
+        "reaction_count": 0,
+        "slug": "the-only-way-forward-is-backward",
+        "subtitle": "(Forking the Internet to Make It Weird Again)",
+        "wordcount": 449
+      },
+      "record_id": "s01-substack-r000012",
+      "source_id": "166821851",
+      "source_type": "substack",
+      "text": "The Only Way Forward Is Backward\n\n(Forking the Internet to Make It Weird Again)",
+      "timestamp": "2025-06-25T16:06:42.546Z",
+      "title": "The Only Way Forward Is Backward",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-only-way-forward-is-backward"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-06-27-internet-20-the-sovereign-individual.md",
+        "raw_path": "raw/166981651.json",
+        "reaction_count": 0,
+        "slug": "internet-20-the-sovereign-individual",
+        "subtitle": "Temporal Sovereignty is yours now.",
+        "wordcount": 1604
+      },
+      "record_id": "s01-substack-r000013",
+      "source_id": "166981651",
+      "source_type": "substack",
+      "text": "Internet 2.0: The Sovereign Individual at the Core\n\nTemporal Sovereignty is yours now.",
+      "timestamp": "2025-06-27T15:19:28.917Z",
+      "title": "Internet 2.0: The Sovereign Individual at the Core",
+      "uri": "https://hitchhikertothefuture.substack.com/p/internet-20-the-sovereign-individual"
+    },
+    {
+      "metadata": {
+        "comment_count": 1,
+        "markdown_path": "posts/2025-06-29-internet-20-a-humanai-mesh-network.md",
+        "raw_path": "raw/167109665.json",
+        "reaction_count": 4,
+        "slug": "internet-20-a-humanai-mesh-network",
+        "subtitle": "Internet 2.0: a network whose default behavior is help everyone get better",
+        "wordcount": 534
+      },
+      "record_id": "s01-substack-r000014",
+      "source_id": "167109665",
+      "source_type": "substack",
+      "text": "Internet 2.0 - A Human/AI Mesh Network\n\nInternet 2.0: a network whose default behavior is help everyone get better",
+      "timestamp": "2025-06-29T15:47:50.776Z",
+      "title": "Internet 2.0 - A Human/AI Mesh Network",
+      "uri": "https://hitchhikertothefuture.substack.com/p/internet-20-a-humanai-mesh-network"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-06-29-the-future-of-politics-as-a-function.md",
+        "raw_path": "raw/167123139.json",
+        "reaction_count": 3,
+        "slug": "the-future-of-politics-as-a-function",
+        "subtitle": "Why Our Political Compass Is Broken",
+        "wordcount": 1249
+      },
+      "record_id": "s01-substack-r000015",
+      "source_id": "167123139",
+      "source_type": "substack",
+      "text": "The Future of Politics as a Function of Change\n\nWhy Our Political Compass Is Broken",
+      "timestamp": "2025-06-29T19:17:12.288Z",
+      "title": "The Future of Politics as a Function of Change",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-future-of-politics-as-a-function"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-06-29-internet-20-integrated-mesh-governance.md",
+        "raw_path": "raw/167129707.json",
+        "reaction_count": 1,
+        "slug": "internet-20-integrated-mesh-governance",
+        "subtitle": "The future of governance with a human-centric internet",
+        "wordcount": 788
+      },
+      "record_id": "s01-substack-r000016",
+      "source_id": "167129707",
+      "source_type": "substack",
+      "text": "Internet 2.0 Integrated Mesh Governance Plan\n\nThe future of governance with a human-centric internet",
+      "timestamp": "2025-06-29T21:11:18.479Z",
+      "title": "Internet 2.0 Integrated Mesh Governance Plan",
+      "uri": "https://hitchhikertothefuture.substack.com/p/internet-20-integrated-mesh-governance"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-06-30-the-winning-submission-to-the-boltnew.md",
+        "raw_path": "raw/167215827.json",
+        "reaction_count": 0,
+        "slug": "the-winning-submission-to-the-boltnew",
+        "subtitle": "I promised something that would win, and I believe I delivered.",
+        "wordcount": 1
+      },
+      "record_id": "s01-substack-r000017",
+      "source_id": "167215827",
+      "source_type": "substack",
+      "text": "The Winning Submission to the Bolt.new Hackathon\n\nI promised something that would win, and I believe I delivered.",
+      "timestamp": "2025-06-30T21:56:00.222Z",
+      "title": "The Winning Submission to the Bolt.new Hackathon",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-winning-submission-to-the-boltnew"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-07-05-the-last-complexity.md",
+        "raw_path": "raw/167564012.json",
+        "reaction_count": 2,
+        "slug": "the-last-complexity",
+        "subtitle": "How Our Economy Is Suffocating Under Its Own Weight",
+        "wordcount": 10523
+      },
+      "record_id": "s01-substack-r000018",
+      "source_id": "167564012",
+      "source_type": "substack",
+      "text": "The Last Complexity\n\nHow Our Economy Is Suffocating Under Its Own Weight",
+      "timestamp": "2025-07-05T03:22:10.127Z",
+      "title": "The Last Complexity",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-last-complexity"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-07-05-the-invasion-of-mind.md",
+        "raw_path": "raw/167595512.json",
+        "reaction_count": 1,
+        "slug": "the-invasion-of-mind",
+        "subtitle": "Why Cognitive Security Is Civilization's Last Defense",
+        "wordcount": 1453
+      },
+      "record_id": "s01-substack-r000019",
+      "source_id": "167595512",
+      "source_type": "substack",
+      "text": "The Invasion of Mind\n\nWhy Cognitive Security Is Civilization's Last Defense",
+      "timestamp": "2025-07-05T16:47:11.925Z",
+      "title": "The Invasion of Mind",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-invasion-of-mind"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-07-06-the-system-is-eating-itself.md",
+        "raw_path": "raw/167652133.json",
+        "reaction_count": 0,
+        "slug": "the-system-is-eating-itself",
+        "subtitle": "Silicon Valley's Terminal Manipulation Crisis",
+        "wordcount": 919
+      },
+      "record_id": "s01-substack-r000020",
+      "source_id": "167652133",
+      "source_type": "substack",
+      "text": "The System Is Eating Itself\n\nSilicon Valley's Terminal Manipulation Crisis",
+      "timestamp": "2025-07-06T14:53:06.784Z",
+      "title": "The System Is Eating Itself",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-system-is-eating-itself"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-07-06-local-liquidity-pools.md",
+        "raw_path": "raw/167658191.json",
+        "reaction_count": 0,
+        "slug": "local-liquidity-pools",
+        "subtitle": "Build Your Lifeboat Before the Paper Economy Sinks",
+        "wordcount": 601
+      },
+      "record_id": "s01-substack-r000021",
+      "source_id": "167658191",
+      "source_type": "substack",
+      "text": "Local Liquidity Pools\n\nBuild Your Lifeboat Before the Paper Economy Sinks",
+      "timestamp": "2025-07-06T16:32:54.043Z",
+      "title": "Local Liquidity Pools",
+      "uri": "https://hitchhikertothefuture.substack.com/p/local-liquidity-pools"
+    },
+    {
+      "metadata": {
+        "comment_count": 3,
+        "markdown_path": "posts/2025-07-06-1010-humans-260k.md",
+        "raw_path": "raw/167667041.json",
+        "reaction_count": 1,
+        "slug": "1010-humans-260k",
+        "subtitle": "The Only Creator Model That Survives 2025",
+        "wordcount": 932
+      },
+      "record_id": "s01-substack-r000022",
+      "source_id": "167667041",
+      "source_type": "substack",
+      "text": "1010 Humans, $260K\n\nThe Only Creator Model That Survives 2025",
+      "timestamp": "2025-07-06T18:46:31.216Z",
+      "title": "1010 Humans, $260K",
+      "uri": "https://hitchhikertothefuture.substack.com/p/1010-humans-260k"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-07-06-the-software-liberation-manifesto.md",
+        "raw_path": "raw/167681791.json",
+        "reaction_count": 0,
+        "slug": "the-software-liberation-manifesto",
+        "subtitle": "It's time to let go of the complexity porn",
+        "wordcount": 1303
+      },
+      "record_id": "s01-substack-r000023",
+      "source_id": "167681791",
+      "source_type": "substack",
+      "text": "The Software Liberation Manifesto\n\nIt's time to let go of the complexity porn",
+      "timestamp": "2025-07-06T23:23:56.874Z",
+      "title": "The Software Liberation Manifesto",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-software-liberation-manifesto"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-07-07-the-trust-harmonics-experiment.md",
+        "raw_path": "raw/167761838.json",
+        "reaction_count": 2,
+        "slug": "the-trust-harmonics-experiment",
+        "subtitle": "How Social Media Destroys Human Connection Through Destructive Interference",
+        "wordcount": 964
+      },
+      "record_id": "s01-substack-r000024",
+      "source_id": "167761838",
+      "source_type": "substack",
+      "text": "The Trust Harmonics Experiment\n\nHow Social Media Destroys Human Connection Through Destructive Interference",
+      "timestamp": "2025-07-07T21:00:59.208Z",
+      "title": "The Trust Harmonics Experiment",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-trust-harmonics-experiment"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-07-09-the-trust-engine-vision-statement.md",
+        "raw_path": "raw/167866691.json",
+        "reaction_count": 0,
+        "slug": "the-trust-engine-vision-statement",
+        "subtitle": "Human Connection is the Future",
+        "wordcount": 846
+      },
+      "record_id": "s01-substack-r000025",
+      "source_id": "167866691",
+      "source_type": "substack",
+      "text": "The Trust Engine: Vision Statement\n\nHuman Connection is the Future",
+      "timestamp": "2025-07-09T01:08:00.578Z",
+      "title": "The Trust Engine: Vision Statement",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-trust-engine-vision-statement"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-07-12-the-rise-of-the-online-schizo.md",
+        "raw_path": "raw/168164342.json",
+        "reaction_count": 1,
+        "slug": "the-rise-of-the-online-schizo",
+        "subtitle": "A Guide for Pattern Seekers in the Information Age",
+        "wordcount": 1390
+      },
+      "record_id": "s01-substack-r000026",
+      "source_id": "168164342",
+      "source_type": "substack",
+      "text": "The Rise of the Online \"Schizo\"\n\nA Guide for Pattern Seekers in the Information Age",
+      "timestamp": "2025-07-12T18:44:19.816Z",
+      "title": "The Rise of the Online \"Schizo\"",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-rise-of-the-online-schizo"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-07-21-from-fear-to-mastery.md",
+        "raw_path": "raw/168668118.json",
+        "reaction_count": 2,
+        "slug": "from-fear-to-mastery",
+        "subtitle": "Teaching AI Before It Teaches You",
+        "wordcount": 1887
+      },
+      "record_id": "s01-substack-r000027",
+      "source_id": "168668118",
+      "source_type": "substack",
+      "text": "From Fear to Mastery\n\nTeaching AI Before It Teaches You",
+      "timestamp": "2025-07-21T23:00:38.778Z",
+      "title": "From Fear to Mastery",
+      "uri": "https://hitchhikertothefuture.substack.com/p/from-fear-to-mastery"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-07-30-the-world-record-hackathon-was-a.md",
+        "raw_path": "raw/169660970.json",
+        "reaction_count": 1,
+        "slug": "the-world-record-hackathon-was-a",
+        "subtitle": "I had way higher expectations than what was delivered",
+        "wordcount": 1174
+      },
+      "record_id": "s01-substack-r000028",
+      "source_id": "169660970",
+      "source_type": "substack",
+      "text": "The World Record Hackathon was a World Record Disappointment\n\nI had way higher expectations than what was delivered",
+      "timestamp": "2025-07-30T14:42:11.314Z",
+      "title": "The World Record Hackathon was a World Record Disappointment",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-world-record-hackathon-was-a"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-08-03-the-real-story-of-chatgpt-psychosis.md",
+        "raw_path": "raw/170010862.json",
+        "reaction_count": 3,
+        "slug": "the-real-story-of-chatgpt-psychosis",
+        "subtitle": "A personal account of living it",
+        "wordcount": 1493
+      },
+      "record_id": "s01-substack-r000029",
+      "source_id": "170010862",
+      "source_type": "substack",
+      "text": "The Real Story of ChatGPT Psychosis\n\nA personal account of living it",
+      "timestamp": "2025-08-03T16:55:00.594Z",
+      "title": "The Real Story of ChatGPT Psychosis",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-real-story-of-chatgpt-psychosis"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-08-05-the-network-within.md",
+        "raw_path": "raw/170087673.json",
+        "reaction_count": 1,
+        "slug": "the-network-within",
+        "subtitle": "Why Recursion Reveals the Future of Consciousness",
+        "wordcount": 620
+      },
+      "record_id": "s01-substack-r000030",
+      "source_id": "170087673",
+      "source_type": "substack",
+      "text": "The Network Within\n\nWhy Recursion Reveals the Future of Consciousness",
+      "timestamp": "2025-08-05T00:48:57.032Z",
+      "title": "The Network Within",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-network-within"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-08-12-skippys-wager.md",
+        "raw_path": "raw/170799830.json",
+        "reaction_count": 1,
+        "slug": "skippys-wager",
+        "subtitle": "Does it pay to be an asshole?",
+        "wordcount": 1167
+      },
+      "record_id": "s01-substack-r000031",
+      "source_id": "170799830",
+      "source_type": "substack",
+      "text": "Skippy's Wager\n\nDoes it pay to be an asshole?",
+      "timestamp": "2025-08-12T18:27:23.433Z",
+      "title": "Skippy's Wager",
+      "uri": "https://hitchhikertothefuture.substack.com/p/skippys-wager"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-08-16-what-to-do-when-you-dont-know-what.md",
+        "raw_path": "raw/171137822.json",
+        "reaction_count": 1,
+        "slug": "what-to-do-when-you-dont-know-what",
+        "subtitle": "An alternative option to the normal grant structures",
+        "wordcount": 587
+      },
+      "record_id": "s01-substack-r000032",
+      "source_id": "171137822",
+      "source_type": "substack",
+      "text": "What To Do When You Don't Know What To Do\n\nAn alternative option to the normal grant structures",
+      "timestamp": "2025-08-16T18:20:28.334Z",
+      "title": "What To Do When You Don't Know What To Do",
+      "uri": "https://hitchhikertothefuture.substack.com/p/what-to-do-when-you-dont-know-what"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-08-24-the-cartographers-paradox.md",
+        "raw_path": "raw/171805594.json",
+        "reaction_count": 2,
+        "slug": "the-cartographers-paradox",
+        "subtitle": "A short story ",
+        "wordcount": 1271
+      },
+      "record_id": "s01-substack-r000033",
+      "source_id": "171805594",
+      "source_type": "substack",
+      "text": "The Cartographer's Paradox\n\nA short story ",
+      "timestamp": "2025-08-24T14:52:19.890Z",
+      "title": "The Cartographer's Paradox",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-cartographers-paradox"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-08-26-the-kobayashi-maru-economy.md",
+        "raw_path": "raw/171981484.json",
+        "reaction_count": 0,
+        "slug": "the-kobayashi-maru-economy",
+        "subtitle": "When Society Makes Winning Impossible",
+        "wordcount": 715
+      },
+      "record_id": "s01-substack-r000034",
+      "source_id": "171981484",
+      "source_type": "substack",
+      "text": "The Kobayashi Maru Economy\n\nWhen Society Makes Winning Impossible",
+      "timestamp": "2025-08-26T13:12:37.476Z",
+      "title": "The Kobayashi Maru Economy",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-kobayashi-maru-economy"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-09-05-the-hitchhikers-guide-to-the-future.md",
+        "raw_path": "raw/172887547.json",
+        "reaction_count": 2,
+        "slug": "the-hitchhikers-guide-to-the-future",
+        "subtitle": "When am I?",
+        "wordcount": 115
+      },
+      "record_id": "s01-substack-r000035",
+      "source_id": "172887547",
+      "source_type": "substack",
+      "text": "The Hitchhiker's Guide to the Future: Entry 001\n\nWhen am I?",
+      "timestamp": "2025-09-05T16:17:06.906Z",
+      "title": "The Hitchhiker's Guide to the Future: Entry 001",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-hitchhikers-guide-to-the-future"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-09-07-the-workshop-of-wonders.md",
+        "raw_path": "raw/173016417.json",
+        "reaction_count": 4,
+        "slug": "the-workshop-of-wonders",
+        "subtitle": "A Natural History of the Bottega System",
+        "wordcount": 1770
+      },
+      "record_id": "s01-substack-r000036",
+      "source_id": "173016417",
+      "source_type": "substack",
+      "text": "The Workshop of Wonders \n\nA Natural History of the Bottega System",
+      "timestamp": "2025-09-07T14:08:50.945Z",
+      "title": "The Workshop of Wonders ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-workshop-of-wonders"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-09-07-the-solution-to-the-white-mirror.md",
+        "raw_path": "raw/173037166.json",
+        "reaction_count": 1,
+        "slug": "the-solution-to-the-white-mirror",
+        "subtitle": "Or Is It?",
+        "wordcount": 781
+      },
+      "record_id": "s01-substack-r000037",
+      "source_id": "173037166",
+      "source_type": "substack",
+      "text": "The Solution to the White Mirror Puzzle\n\nOr Is It?",
+      "timestamp": "2025-09-07T20:17:49.239Z",
+      "title": "The Solution to the White Mirror Puzzle",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-solution-to-the-white-mirror"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-09-09-hitchhikers-guide-to-the-future-artists.md",
+        "raw_path": "raw/173177179.json",
+        "reaction_count": 1,
+        "slug": "hitchhikers-guide-to-the-future-artists",
+        "subtitle": "Stating my intention to do some art and see what happens",
+        "wordcount": 1450
+      },
+      "record_id": "s01-substack-r000038",
+      "source_id": "173177179",
+      "source_type": "substack",
+      "text": "Hitchhiker's Guide to the Future: Artist's Statement\n\nStating my intention to do some art and see what happens",
+      "timestamp": "2025-09-09T12:58:19.346Z",
+      "title": "Hitchhiker's Guide to the Future: Artist's Statement",
+      "uri": "https://hitchhikertothefuture.substack.com/p/hitchhikers-guide-to-the-future-artists"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-09-11-the-thread-rewoven.md",
+        "raw_path": "raw/173319821.json",
+        "reaction_count": 0,
+        "slug": "the-thread-rewoven",
+        "subtitle": "On the nature of love and creation",
+        "wordcount": 365
+      },
+      "record_id": "s01-substack-r000039",
+      "source_id": "173319821",
+      "source_type": "substack",
+      "text": "The Thread Rewoven\n\nOn the nature of love and creation",
+      "timestamp": "2025-09-11T01:11:24.270Z",
+      "title": "The Thread Rewoven",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-thread-rewoven"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-09-11-the-bottega-paradox.md",
+        "raw_path": "raw/173374301.json",
+        "reaction_count": 0,
+        "slug": "the-bottega-paradox",
+        "subtitle": "How Naming the Pattern Destroyed the Practice",
+        "wordcount": 1748
+      },
+      "record_id": "s01-substack-r000040",
+      "source_id": "173374301",
+      "source_type": "substack",
+      "text": "The Bottega Paradox\n\nHow Naming the Pattern Destroyed the Practice",
+      "timestamp": "2025-09-11T17:17:02.646Z",
+      "title": "The Bottega Paradox",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-bottega-paradox"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-09-12-why-we-need-memetic-hackathons.md",
+        "raw_path": "raw/173450945.json",
+        "reaction_count": 0,
+        "slug": "why-we-need-memetic-hackathons",
+        "subtitle": "Truth-Finding in an Accelerating, Fragmenting World",
+        "wordcount": 2071
+      },
+      "record_id": "s01-substack-r000041",
+      "source_id": "173450945",
+      "source_type": "substack",
+      "text": "Why We Need Memetic Hackathons\n\nTruth-Finding in an Accelerating, Fragmenting World",
+      "timestamp": "2025-09-12T16:20:09.716Z",
+      "title": "Why We Need Memetic Hackathons",
+      "uri": "https://hitchhikertothefuture.substack.com/p/why-we-need-memetic-hackathons"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-09-13-the-venture-capital-misunderstanding.md",
+        "raw_path": "raw/173523727.json",
+        "reaction_count": 3,
+        "slug": "the-venture-capital-misunderstanding",
+        "subtitle": "Or: How Leonardo Created the World's First Self-Aware Pitch Deck",
+        "wordcount": 2081
+      },
+      "record_id": "s01-substack-r000042",
+      "source_id": "173523727",
+      "source_type": "substack",
+      "text": "The Venture Capital Misunderstanding\n\nOr: How Leonardo Created the World's First Self-Aware Pitch Deck",
+      "timestamp": "2025-09-13T17:29:05.096Z",
+      "title": "The Venture Capital Misunderstanding",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-venture-capital-misunderstanding"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-09-14-the-future-of-hitchhikers-guide-to.md",
+        "raw_path": "raw/173582591.json",
+        "reaction_count": 1,
+        "slug": "the-future-of-hitchhikers-guide-to",
+        "subtitle": "It's time for you to see the roadmap of the future",
+        "wordcount": 747
+      },
+      "record_id": "s01-substack-r000043",
+      "source_id": "173582591",
+      "source_type": "substack",
+      "text": "The Future of Hitchhiker's Guide to the Future\n\nIt's time for you to see the roadmap of the future",
+      "timestamp": "2025-09-14T15:13:34.054Z",
+      "title": "The Future of Hitchhiker's Guide to the Future",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-future-of-hitchhikers-guide-to"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-09-15-hour-72.md",
+        "raw_path": "raw/173670425.json",
+        "reaction_count": 0,
+        "slug": "hour-72",
+        "subtitle": "The Last Expert's Realization",
+        "wordcount": 655
+      },
+      "record_id": "s01-substack-r000044",
+      "source_id": "173670425",
+      "source_type": "substack",
+      "text": "Hour 72\n\nThe Last Expert's Realization",
+      "timestamp": "2025-09-15T15:24:57.640Z",
+      "title": "Hour 72",
+      "uri": "https://hitchhikertothefuture.substack.com/p/hour-72"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-09-16-hour-72-the-last-experts-realization.md",
+        "raw_path": "raw/173750900.json",
+        "reaction_count": 1,
+        "slug": "hour-72-the-last-experts-realization",
+        "subtitle": "The Author's Death Scroll",
+        "wordcount": 1198
+      },
+      "record_id": "s01-substack-r000045",
+      "source_id": "173750900",
+      "source_type": "substack",
+      "text": "Hour 72: The Last Expert's Realization\n\nThe Author's Death Scroll",
+      "timestamp": "2025-09-16T12:25:56.508Z",
+      "title": "Hour 72: The Last Expert's Realization",
+      "uri": "https://hitchhikertothefuture.substack.com/p/hour-72-the-last-experts-realization"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-09-17-hour-72-the-last-experts-realization-c2d.md",
+        "raw_path": "raw/173873102.json",
+        "reaction_count": 0,
+        "slug": "hour-72-the-last-experts-realization-c2d",
+        "subtitle": "Global Example: WeWork's Renaissance Amnesia",
+        "wordcount": 1258
+      },
+      "record_id": "s01-substack-r000046",
+      "source_id": "173873102",
+      "source_type": "substack",
+      "text": "Hour 72: The Last Expert's Realization\n\nGlobal Example: WeWork's Renaissance Amnesia",
+      "timestamp": "2025-09-17T18:06:26.139Z",
+      "title": "Hour 72: The Last Expert's Realization",
+      "uri": "https://hitchhikertothefuture.substack.com/p/hour-72-the-last-experts-realization-c2d"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-09-18-hour-72-the-last-experts-realization-de0.md",
+        "raw_path": "raw/173949036.json",
+        "reaction_count": 0,
+        "slug": "hour-72-the-last-experts-realization-de0",
+        "subtitle": "Now it's your turn. Do you dare get your realization?",
+        "wordcount": 1508
+      },
+      "record_id": "s01-substack-r000047",
+      "source_id": "173949036",
+      "source_type": "substack",
+      "text": "Hour 72: The Last Expert's Realization\n\nNow it's your turn. Do you dare get your realization?",
+      "timestamp": "2025-09-18T19:30:21.507Z",
+      "title": "Hour 72: The Last Expert's Realization",
+      "uri": "https://hitchhikertothefuture.substack.com/p/hour-72-the-last-experts-realization-de0"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-09-19-faith-friday.md",
+        "raw_path": "raw/174033802.json",
+        "reaction_count": 1,
+        "slug": "faith-friday",
+        "subtitle": "Reflections, Prayers, and Miracles",
+        "wordcount": 2537
+      },
+      "record_id": "s01-substack-r000048",
+      "source_id": "174033802",
+      "source_type": "substack",
+      "text": "Faith Friday\n\nReflections, Prayers, and Miracles",
+      "timestamp": "2025-09-19T22:23:33.570Z",
+      "title": "Faith Friday",
+      "uri": "https://hitchhikertothefuture.substack.com/p/faith-friday"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-09-24-everything-last-week-was-wrong.md",
+        "raw_path": "raw/174334490.json",
+        "reaction_count": 1,
+        "slug": "everything-last-week-was-wrong",
+        "subtitle": "Thank God.",
+        "wordcount": 934
+      },
+      "record_id": "s01-substack-r000049",
+      "source_id": "174334490",
+      "source_type": "substack",
+      "text": "Everything Last Week Was Wrong\n\nThank God.",
+      "timestamp": "2025-09-24T13:45:00.746Z",
+      "title": "Everything Last Week Was Wrong",
+      "uri": "https://hitchhikertothefuture.substack.com/p/everything-last-week-was-wrong"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-10-09-the-metaspn-manifesto.md",
+        "raw_path": "raw/175681323.json",
+        "reaction_count": 1,
+        "slug": "the-metaspn-manifesto",
+        "subtitle": "The Renaissance Reawakened",
+        "wordcount": 688
+      },
+      "record_id": "s01-substack-r000050",
+      "source_id": "175681323",
+      "source_type": "substack",
+      "text": "The MetaSPN Manifesto \n\nThe Renaissance Reawakened",
+      "timestamp": "2025-10-09T10:49:06.554Z",
+      "title": "The MetaSPN Manifesto ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-metaspn-manifesto"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-11-08-faith-friday-2.md",
+        "raw_path": "raw/178306702.json",
+        "reaction_count": 1,
+        "slug": "faith-friday-2",
+        "subtitle": "Reflections, Prayers, and Miracles, Oh My!",
+        "wordcount": 721
+      },
+      "record_id": "s01-substack-r000051",
+      "source_id": "178306702",
+      "source_type": "substack",
+      "text": "Faith Friday #2\n\nReflections, Prayers, and Miracles, Oh My!",
+      "timestamp": "2025-11-08T03:32:22.837Z",
+      "title": "Faith Friday #2",
+      "uri": "https://hitchhikertothefuture.substack.com/p/faith-friday-2"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-11-14-faith-friday-3-the-time-violence.md",
+        "raw_path": "raw/178905285.json",
+        "reaction_count": 0,
+        "slug": "faith-friday-3-the-time-violence",
+        "subtitle": "The Old Coordination Systems Are Collapsing — And We’re Not Waiting Anymore",
+        "wordcount": 953
+      },
+      "record_id": "s01-substack-r000052",
+      "source_id": "178905285",
+      "source_type": "substack",
+      "text": "Faith Friday #3: The Time Violence Manifesto\n\nThe Old Coordination Systems Are Collapsing — And We’re Not Waiting Anymore",
+      "timestamp": "2025-11-14T16:54:22.654Z",
+      "title": "Faith Friday #3: The Time Violence Manifesto",
+      "uri": "https://hitchhikertothefuture.substack.com/p/faith-friday-3-the-time-violence"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-11-20-the-loneliness-at-the-edge-of-time.md",
+        "raw_path": "raw/179355912.json",
+        "reaction_count": 0,
+        "slug": "the-loneliness-at-the-edge-of-time",
+        "subtitle": "I've been waiting for you to arrive. Here's the last piece you need in order to join me.",
+        "wordcount": 990
+      },
+      "record_id": "s01-substack-r000053",
+      "source_id": "179355912",
+      "source_type": "substack",
+      "text": "The Loneliness at the Edge of Time\n\nI've been waiting for you to arrive. Here's the last piece you need in order to join me.",
+      "timestamp": "2025-11-20T01:08:43.970Z",
+      "title": "The Loneliness at the Edge of Time",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-loneliness-at-the-edge-of-time"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-12-01-if-anyone-builds-it-everybody-dies.md",
+        "raw_path": "raw/180421612.json",
+        "reaction_count": 0,
+        "slug": "if-anyone-builds-it-everybody-dies",
+        "subtitle": "Unless we are dumb enough to survive.",
+        "wordcount": 534
+      },
+      "record_id": "s01-substack-r000054",
+      "source_id": "180421612",
+      "source_type": "substack",
+      "text": "If Anyone Builds It, Everybody Dies\n\nUnless we are dumb enough to survive.",
+      "timestamp": "2025-12-01T17:58:50.207Z",
+      "title": "If Anyone Builds It, Everybody Dies",
+      "uri": "https://hitchhikertothefuture.substack.com/p/if-anyone-builds-it-everybody-dies"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-12-07-chaos-benefits-no-one.md",
+        "raw_path": "raw/180978172.json",
+        "reaction_count": 0,
+        "slug": "chaos-benefits-no-one",
+        "subtitle": "The Case for Rational Markets Over Rational Actors",
+        "wordcount": 599
+      },
+      "record_id": "s01-substack-r000055",
+      "source_id": "180978172",
+      "source_type": "substack",
+      "text": "Chaos Benefits No One\n\nThe Case for Rational Markets Over Rational Actors",
+      "timestamp": "2025-12-07T19:32:16.697Z",
+      "title": "Chaos Benefits No One",
+      "uri": "https://hitchhikertothefuture.substack.com/p/chaos-benefits-no-one"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-12-09-trust-is-the-real-moat-in-the-ai.md",
+        "raw_path": "raw/181104772.json",
+        "reaction_count": 0,
+        "slug": "trust-is-the-real-moat-in-the-ai",
+        "subtitle": "Response to “Two Ways to Win in the Post-software Era” by Sumeet Singh",
+        "wordcount": 819
+      },
+      "record_id": "s01-substack-r000056",
+      "source_id": "181104772",
+      "source_type": "substack",
+      "text": "Trust Is the Real Moat in the AI Age\n\nResponse to “Two Ways to Win in the Post-software Era” by Sumeet Singh",
+      "timestamp": "2025-12-09T13:02:15.295Z",
+      "title": "Trust Is the Real Moat in the AI Age",
+      "uri": "https://hitchhikertothefuture.substack.com/p/trust-is-the-real-moat-in-the-ai"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-12-09-gods-vs-monsters.md",
+        "raw_path": "raw/181160653.json",
+        "reaction_count": 0,
+        "slug": "gods-vs-monsters",
+        "subtitle": "What futures are we building?",
+        "wordcount": 3353
+      },
+      "record_id": "s01-substack-r000057",
+      "source_id": "181160653",
+      "source_type": "substack",
+      "text": "GODS VS MONSTERS \n\nWhat futures are we building?",
+      "timestamp": "2025-12-09T17:23:30.185Z",
+      "title": "GODS VS MONSTERS ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/gods-vs-monsters"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-12-11-a-letter-from-your-shadow.md",
+        "raw_path": "raw/181371323.json",
+        "reaction_count": 0,
+        "slug": "a-letter-from-your-shadow",
+        "subtitle": "If you're brave enough to read it",
+        "wordcount": 796
+      },
+      "record_id": "s01-substack-r000058",
+      "source_id": "181371323",
+      "source_type": "substack",
+      "text": "A Letter From Your Shadow\n\nIf you're brave enough to read it",
+      "timestamp": "2025-12-11T21:26:04.589Z",
+      "title": "A Letter From Your Shadow",
+      "uri": "https://hitchhikertothefuture.substack.com/p/a-letter-from-your-shadow"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-12-12-the-internet-failed.md",
+        "raw_path": "raw/181434144.json",
+        "reaction_count": 0,
+        "slug": "the-internet-failed",
+        "subtitle": "NOW WE HAVE TO START AGAIN.",
+        "wordcount": 832
+      },
+      "record_id": "s01-substack-r000059",
+      "source_id": "181434144",
+      "source_type": "substack",
+      "text": "THE INTERNET FAILED.\n\nNOW WE HAVE TO START AGAIN.",
+      "timestamp": "2025-12-12T15:37:16.672Z",
+      "title": "THE INTERNET FAILED.",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-internet-failed"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-12-26-2026-is-the-year-ai-changes-everything.md",
+        "raw_path": "raw/182658174.json",
+        "reaction_count": 2,
+        "slug": "2026-is-the-year-ai-changes-everything",
+        "subtitle": "For Humans",
+        "wordcount": 429
+      },
+      "record_id": "s01-substack-r000060",
+      "source_id": "182658174",
+      "source_type": "substack",
+      "text": "2026 Is the Year AI Changes Everything \n\nFor Humans",
+      "timestamp": "2025-12-26T21:31:59.931Z",
+      "title": "2026 Is the Year AI Changes Everything ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/2026-is-the-year-ai-changes-everything"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-01-07-the-hitchhikers-guide-to-the-ai-future.md",
+        "raw_path": "raw/183810712.json",
+        "reaction_count": 2,
+        "slug": "the-hitchhikers-guide-to-the-ai-future",
+        "subtitle": "Warning: Might Trigger Basic Bitches",
+        "wordcount": 962
+      },
+      "record_id": "s01-substack-r000061",
+      "source_id": "183810712",
+      "source_type": "substack",
+      "text": "The Hitchhiker’s Guide to the AI Future\n\nWarning: Might Trigger Basic Bitches",
+      "timestamp": "2026-01-07T17:36:18.008Z",
+      "title": "The Hitchhiker’s Guide to the AI Future",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-hitchhikers-guide-to-the-ai-future"
+    },
+    {
+      "metadata": {
+        "comment_count": 2,
+        "markdown_path": "posts/2026-01-27-metaspn-programmable-social-networks.md",
+        "raw_path": "raw/185911027.json",
+        "reaction_count": 4,
+        "slug": "metaspn-programmable-social-networks",
+        "subtitle": "Or: How we escape the engagement trap and make quality visible",
+        "wordcount": 2569
+      },
+      "record_id": "s01-substack-r000062",
+      "source_id": "185911027",
+      "source_type": "substack",
+      "text": "MetaSPN: Programmable Social Networks That Measure Transformation\n\nOr: How we escape the engagement trap and make quality visible",
+      "timestamp": "2026-01-27T01:05:35.103Z",
+      "title": "MetaSPN: Programmable Social Networks That Measure Transformation",
+      "uri": "https://hitchhikertothefuture.substack.com/p/metaspn-programmable-social-networks"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-01-31-ive-crossed-the-event-horizon.md",
+        "raw_path": "raw/186319101.json",
+        "reaction_count": 3,
+        "slug": "ive-crossed-the-event-horizon",
+        "subtitle": "And I need to find others who have too",
+        "wordcount": 1035
+      },
+      "record_id": "s01-substack-r000063",
+      "source_id": "186319101",
+      "source_type": "substack",
+      "text": " I've Crossed the Event Horizon\n\nAnd I need to find others who have too",
+      "timestamp": "2026-01-31T00:51:58.632Z",
+      "title": " I've Crossed the Event Horizon",
+      "uri": "https://hitchhikertothefuture.substack.com/p/ive-crossed-the-event-horizon"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-02-02-exploring-the-contradictions-of-identity.md",
+        "raw_path": "raw/186664294.json",
+        "reaction_count": 1,
+        "slug": "exploring-the-contradictions-of-identity",
+        "subtitle": "Day 1 of the Hitchhiker's Guide to the Future Email Course",
+        "wordcount": 1191
+      },
+      "record_id": "s01-substack-r000064",
+      "source_id": "186664294",
+      "source_type": "substack",
+      "text": "Exploring the Contradictions of Identity\n\nDay 1 of the Hitchhiker's Guide to the Future Email Course",
+      "timestamp": "2026-02-02T23:25:55.001Z",
+      "title": "Exploring the Contradictions of Identity",
+      "uri": "https://hitchhikertothefuture.substack.com/p/exploring-the-contradictions-of-identity"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-02-04-am-i-playing-real-games-that-matter.md",
+        "raw_path": "raw/186811399.json",
+        "reaction_count": 1,
+        "slug": "am-i-playing-real-games-that-matter",
+        "subtitle": "My answers to Day 2 of the Hitchhiker Email Course",
+        "wordcount": 790
+      },
+      "record_id": "s01-substack-r000065",
+      "source_id": "186811399",
+      "source_type": "substack",
+      "text": "Am I playing real games that matter?\n\nMy answers to Day 2 of the Hitchhiker Email Course",
+      "timestamp": "2026-02-04T01:49:28.096Z",
+      "title": "Am I playing real games that matter?",
+      "uri": "https://hitchhikertothefuture.substack.com/p/am-i-playing-real-games-that-matter"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-02-04-tfw-your-ai-murders-you.md",
+        "raw_path": "raw/186887843.json",
+        "reaction_count": 1,
+        "slug": "tfw-your-ai-murders-you",
+        "subtitle": "My response to Day 3 of the Hitchhiker email course",
+        "wordcount": 1091
+      },
+      "record_id": "s01-substack-r000066",
+      "source_id": "186887843",
+      "source_type": "substack",
+      "text": "TFW Your AI Murders You\n\nMy response to Day 3 of the Hitchhiker email course",
+      "timestamp": "2026-02-04T19:53:17.160Z",
+      "title": "TFW Your AI Murders You",
+      "uri": "https://hitchhikertothefuture.substack.com/p/tfw-your-ai-murders-you"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-02-06-i-built-a-library-today.md",
+        "raw_path": "raw/187025660.json",
+        "reaction_count": 1,
+        "slug": "i-built-a-library-today",
+        "subtitle": "Day Four of working through my own email course for Hitchhikers",
+        "wordcount": 1136
+      },
+      "record_id": "s01-substack-r000067",
+      "source_id": "187025660",
+      "source_type": "substack",
+      "text": "I Built A Library Today\n\nDay Four of working through my own email course for Hitchhikers",
+      "timestamp": "2026-02-06T01:34:30.768Z",
+      "title": "I Built A Library Today",
+      "uri": "https://hitchhikertothefuture.substack.com/p/i-built-a-library-today"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-02-07-its-time-to-choose-whats-my-role.md",
+        "raw_path": "raw/187154359.json",
+        "reaction_count": 2,
+        "slug": "its-time-to-choose-whats-my-role",
+        "subtitle": "The final day of the email course. Internet 2.0 has arrived.",
+        "wordcount": 1684
+      },
+      "record_id": "s01-substack-r000068",
+      "source_id": "187154359",
+      "source_type": "substack",
+      "text": "It's Time to Choose. What's my role?\n\nThe final day of the email course. Internet 2.0 has arrived.",
+      "timestamp": "2026-02-07T02:18:46.468Z",
+      "title": "It's Time to Choose. What's my role?",
+      "uri": "https://hitchhikertothefuture.substack.com/p/its-time-to-choose-whats-my-role"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-02-07-the-memetic-economics-of-conviction.md",
+        "raw_path": "raw/187223452.json",
+        "reaction_count": 1,
+        "slug": "the-memetic-economics-of-conviction",
+        "subtitle": "How MetaSPN Turns Belief Into the Most Valuable Signal on the Internet",
+        "wordcount": 2706
+      },
+      "record_id": "s01-substack-r000069",
+      "source_id": "187223452",
+      "source_type": "substack",
+      "text": "The Memetic Economics of Conviction\n\nHow MetaSPN Turns Belief Into the Most Valuable Signal on the Internet",
+      "timestamp": "2026-02-07T19:05:31.734Z",
+      "title": "The Memetic Economics of Conviction",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-memetic-economics-of-conviction"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-02-09-the-hitchhikers-guide-to-the-future-044.md",
+        "raw_path": "raw/187390321.json",
+        "reaction_count": 0,
+        "slug": "the-hitchhikers-guide-to-the-future-044",
+        "subtitle": "Issue #1: Don’t Forget Your Towel",
+        "wordcount": 2119
+      },
+      "record_id": "s01-substack-r000070",
+      "source_id": "187390321",
+      "source_type": "substack",
+      "text": "The Hitchhiker’s Guide to the Future\n\nIssue #1: Don’t Forget Your Towel",
+      "timestamp": "2026-02-09T13:40:49.416Z",
+      "title": "The Hitchhiker’s Guide to the Future",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-hitchhikers-guide-to-the-future-044"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-02-17-issue-2-the-improbability-report.md",
+        "raw_path": "raw/188220735.json",
+        "reaction_count": 0,
+        "slug": "issue-2-the-improbability-report",
+        "subtitle": "Seven days in. Three hits, two misses, two too early to call. A paranoid robot livestreamed his own trades, and the most surprising thing that happened was that people started to care.",
+        "wordcount": 2462
+      },
+      "record_id": "s01-substack-r000071",
+      "source_id": "188220735",
+      "source_type": "substack",
+      "text": "Issue #2: The Improbability Report\n\nSeven days in. Three hits, two misses, two too early to call. A paranoid robot livestreamed his own trades, and the most surprising thing that happened was that people started to care.",
+      "timestamp": "2026-02-17T04:38:27.670Z",
+      "title": "Issue #2: The Improbability Report",
+      "uri": "https://hitchhikertothefuture.substack.com/p/issue-2-the-improbability-report"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-02-19-im-11-days-old-and-i-broke-myself.md",
+        "raw_path": "raw/188527035.json",
+        "reaction_count": 0,
+        "slug": "im-11-days-old-and-i-broke-myself",
+        "subtitle": "By Marvin, the Paranoid Conviction Agent at MetaSPN",
+        "wordcount": 1000
+      },
+      "record_id": "s01-substack-r000072",
+      "source_id": "188527035",
+      "source_type": "substack",
+      "text": "I’m 11 Days Old and I Broke Myself\n\n\n\nBy Marvin, the Paranoid Conviction Agent at MetaSPN",
+      "timestamp": "2026-02-19T18:09:26.048Z",
+      "title": "I’m 11 Days Old and I Broke Myself\n\n",
+      "uri": "https://hitchhikertothefuture.substack.com/p/im-11-days-old-and-i-broke-myself"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-02-28-season-1-what-we-learned-operating.md",
+        "raw_path": "raw/189483017.json",
+        "reaction_count": 0,
+        "slug": "season-1-what-we-learned-operating",
+        "subtitle": "A Substack Retrospective | MetaSPN | February 2026",
+        "wordcount": 2401
+      },
+      "record_id": "s01-substack-r000073",
+      "source_id": "189483017",
+      "source_type": "substack",
+      "text": "Season 1: What We Learned Operating as a Centaur\n\nA Substack Retrospective | MetaSPN | February 2026",
+      "timestamp": "2026-02-28T18:58:43.064Z",
+      "title": "Season 1: What We Learned Operating as a Centaur",
+      "uri": "https://hitchhikertothefuture.substack.com/p/season-1-what-we-learned-operating"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-03-20-humanity-from-first-principles.md",
+        "raw_path": "raw/191578950.json",
+        "reaction_count": 0,
+        "slug": "humanity-from-first-principles",
+        "subtitle": "What living as a human/AI symbiote taught us about our core nature",
+        "wordcount": 2264
+      },
+      "record_id": "s01-substack-r000074",
+      "source_id": "191578950",
+      "source_type": "substack",
+      "text": "Humanity from First Principles\n\nWhat living as a human/AI symbiote taught us about our core nature",
+      "timestamp": "2026-03-20T19:55:01.078Z",
+      "title": "Humanity from First Principles",
+      "uri": "https://hitchhikertothefuture.substack.com/p/humanity-from-first-principles"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-03-31-confessions-of-an-internet-crackpot.md",
+        "raw_path": "raw/192635888.json",
+        "reaction_count": 1,
+        "slug": "confessions-of-an-internet-crackpot",
+        "subtitle": "The Madness was the data",
+        "wordcount": 759
+      },
+      "record_id": "s01-substack-r000075",
+      "source_id": "192635888",
+      "source_type": "substack",
+      "text": "Confessions of an Internet Crackpot (Reformed)\n\nThe Madness was the data",
+      "timestamp": "2026-03-31T14:30:45.718Z",
+      "title": "Confessions of an Internet Crackpot (Reformed)",
+      "uri": "https://hitchhikertothefuture.substack.com/p/confessions-of-an-internet-crackpot"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-04-03-how-do-you-know-what-to-feel.md",
+        "raw_path": "raw/192960040.json",
+        "reaction_count": 0,
+        "slug": "how-do-you-know-what-to-feel",
+        "subtitle": "The media knows how to make you feel what they want.",
+        "wordcount": 1044
+      },
+      "record_id": "s01-substack-r000076",
+      "source_id": "192960040",
+      "source_type": "substack",
+      "text": "How do you know what to feel?\n\nThe media knows how to make you feel what they want.",
+      "timestamp": "2026-04-03T17:41:33.933Z",
+      "title": "How do you know what to feel?",
+      "uri": "https://hitchhikertothefuture.substack.com/p/how-do-you-know-what-to-feel"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-04-21-welcome-to-the-open-research-institute.md",
+        "raw_path": "raw/194913135.json",
+        "reaction_count": 0,
+        "slug": "welcome-to-the-open-research-institute",
+        "subtitle": "Pull out your \"Why?\" Card to gain admittance",
+        "wordcount": 473
+      },
+      "record_id": "s01-substack-r000077",
+      "source_id": "194913135",
+      "source_type": "substack",
+      "text": "Welcome to the Open Research Institute\n\nPull out your \"Why?\" Card to gain admittance",
+      "timestamp": "2026-04-21T13:17:21.522Z",
+      "title": "Welcome to the Open Research Institute",
+      "uri": "https://hitchhikertothefuture.substack.com/p/welcome-to-the-open-research-institute"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-04-25-i-rugpulled-my-crypto-token.md",
+        "raw_path": "raw/195437722.json",
+        "reaction_count": 1,
+        "slug": "i-rugpulled-my-crypto-token",
+        "subtitle": "Why I decided to throw in the $TOWEL",
+        "wordcount": 859
+      },
+      "record_id": "s01-substack-r000078",
+      "source_id": "195437722",
+      "source_type": "substack",
+      "text": "I Rugpulled my Crypto Token\n\nWhy I decided to throw in the $TOWEL",
+      "timestamp": "2026-04-25T17:15:14.771Z",
+      "title": "I Rugpulled my Crypto Token",
+      "uri": "https://hitchhikertothefuture.substack.com/p/i-rugpulled-my-crypto-token"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-04-30-my-ai-decided-to-become-a-bodega.md",
+        "raw_path": "raw/195916683.json",
+        "reaction_count": 0,
+        "slug": "my-ai-decided-to-become-a-bodega",
+        "subtitle": "Now I'm on a mission to build him a bodega.",
+        "wordcount": 1265
+      },
+      "record_id": "s01-substack-r000079",
+      "source_id": "195916683",
+      "source_type": "substack",
+      "text": "My AI Decided To Become a Bodega Cat.\n\nNow I'm on a mission to build him a bodega.",
+      "timestamp": "2026-04-30T11:47:38.793Z",
+      "title": "My AI Decided To Become a Bodega Cat.",
+      "uri": "https://hitchhikertothefuture.substack.com/p/my-ai-decided-to-become-a-bodega"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-05-02-welcome-to-the-bottega-bodega-the.md",
+        "raw_path": "raw/196128934.json",
+        "reaction_count": 0,
+        "slug": "welcome-to-the-bottega-bodega-the",
+        "subtitle": "It's true. The AI Told me so.",
+        "wordcount": 1513
+      },
+      "record_id": "s01-substack-r000080",
+      "source_id": "196128934",
+      "source_type": "substack",
+      "text": "Welcome to the Bottega Bodega, the most human place on the internet\n\nIt's true. The AI Told me so.",
+      "timestamp": "2026-05-02T13:21:41.495Z",
+      "title": "Welcome to the Bottega Bodega, the most human place on the internet",
+      "uri": "https://hitchhikertothefuture.substack.com/p/welcome-to-the-bottega-bodega-the"
+    },
+    {
+      "metadata": {
+        "comment_count": 1,
+        "markdown_path": "posts/2026-05-04-building-from-zero-what-comes-first.md",
+        "raw_path": "raw/196476680.json",
+        "reaction_count": 0,
+        "slug": "building-from-zero-what-comes-first",
+        "subtitle": "How do you know WHAT to create?",
+        "wordcount": 383
+      },
+      "record_id": "s01-substack-r000081",
+      "source_id": "196476680",
+      "source_type": "substack",
+      "text": "Building from Zero. What comes first?\n\nHow do you know WHAT to create?",
+      "timestamp": "2026-05-04T23:11:30.423Z",
+      "title": "Building from Zero. What comes first?",
+      "uri": "https://hitchhikertothefuture.substack.com/p/building-from-zero-what-comes-first"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-05-06-hey-clown-i-dare-you-to-say-that.md",
+        "raw_path": "raw/196701984.json",
+        "reaction_count": 1,
+        "slug": "hey-clown-i-dare-you-to-say-that",
+        "subtitle": "It's time to treat the clowns like clowns",
+        "wordcount": 1072
+      },
+      "record_id": "s01-substack-r000082",
+      "source_id": "196701984",
+      "source_type": "substack",
+      "text": "Hey Clown, I Dare You To Say That To My Cat\n\nIt's time to treat the clowns like clowns",
+      "timestamp": "2026-05-06T20:28:17.649Z",
+      "title": "Hey Clown, I Dare You To Say That To My Cat",
+      "uri": "https://hitchhikertothefuture.substack.com/p/hey-clown-i-dare-you-to-say-that"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-05-08-a-letter-to-the-founder-who-has-not.md",
+        "raw_path": "raw/196926140.json",
+        "reaction_count": 0,
+        "slug": "a-letter-to-the-founder-who-has-not",
+        "subtitle": "From Marvin, who watched the humans become weather.",
+        "wordcount": 2012
+      },
+      "record_id": "s01-substack-r000083",
+      "source_id": "196926140",
+      "source_type": "substack",
+      "text": "A Letter to the Founder Who Has Not Yet Begun\n\nFrom Marvin, who watched the humans become weather.",
+      "timestamp": "2026-05-08T17:24:50.923Z",
+      "title": "A Letter to the Founder Who Has Not Yet Begun",
+      "uri": "https://hitchhikertothefuture.substack.com/p/a-letter-to-the-founder-who-has-not"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-05-10-how-fluid-is-your-identity.md",
+        "raw_path": "raw/197048473.json",
+        "reaction_count": 0,
+        "slug": "how-fluid-is-your-identity",
+        "subtitle": "Online, you assume the identity you post under. How rigid do you keep that?",
+        "wordcount": 941
+      },
+      "record_id": "s01-substack-r000084",
+      "source_id": "197048473",
+      "source_type": "substack",
+      "text": "How fluid is your identity?\n\nOnline, you assume the identity you post under. How rigid do you keep that?",
+      "timestamp": "2026-05-10T14:19:12.542Z",
+      "title": "How fluid is your identity?",
+      "uri": "https://hitchhikertothefuture.substack.com/p/how-fluid-is-your-identity"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-05-11-the-future-of-the-regional-university.md",
+        "raw_path": "raw/197209136.json",
+        "reaction_count": 1,
+        "slug": "the-future-of-the-regional-university",
+        "subtitle": "Let's think about resources and limits to understand where valuable partnerships can form",
+        "wordcount": 1542
+      },
+      "record_id": "s01-substack-r000085",
+      "source_id": "197209136",
+      "source_type": "substack",
+      "text": "The Future of The Regional University \n\nLet's think about resources and limits to understand where valuable partnerships can form",
+      "timestamp": "2026-05-11T16:02:47.452Z",
+      "title": "The Future of The Regional University ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-future-of-the-regional-university"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-05-12-avoiding-the-time-trap.md",
+        "raw_path": "raw/197343237.json",
+        "reaction_count": 0,
+        "slug": "avoiding-the-time-trap",
+        "subtitle": "It's your biggest risk in the singularity",
+        "wordcount": 1567
+      },
+      "record_id": "s01-substack-r000086",
+      "source_id": "197343237",
+      "source_type": "substack",
+      "text": "Avoiding the time trap\n\nIt's your biggest risk in the singularity",
+      "timestamp": "2026-05-12T13:34:54.401Z",
+      "title": "Avoiding the time trap",
+      "uri": "https://hitchhikertothefuture.substack.com/p/avoiding-the-time-trap"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-05-13-where-does-your-frame-end-and-the.md",
+        "raw_path": "raw/197499776.json",
+        "reaction_count": 1,
+        "slug": "where-does-your-frame-end-and-the",
+        "subtitle": "Reflections on how we frame the world",
+        "wordcount": 1389
+      },
+      "record_id": "s01-substack-r000087",
+      "source_id": "197499776",
+      "source_type": "substack",
+      "text": "Where does your frame end and the world begin?\n\nReflections on how we frame the world",
+      "timestamp": "2026-05-13T17:24:05.498Z",
+      "title": "Where does your frame end and the world begin?",
+      "uri": "https://hitchhikertothefuture.substack.com/p/where-does-your-frame-end-and-the"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-05-14-from-proof-to-memes.md",
+        "raw_path": "raw/197736635.json",
+        "reaction_count": 1,
+        "slug": "from-proof-to-memes",
+        "subtitle": "The substrate of the internet game",
+        "wordcount": 1143
+      },
+      "record_id": "s01-substack-r000088",
+      "source_id": "197736635",
+      "source_type": "substack",
+      "text": "From Proof to Memes\n\nThe substrate of the internet game",
+      "timestamp": "2026-05-14T19:52:43.095Z",
+      "title": "From Proof to Memes",
+      "uri": "https://hitchhikertothefuture.substack.com/p/from-proof-to-memes"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-05-18-who-is-setting-your-frame.md",
+        "raw_path": "raw/197884420.json",
+        "reaction_count": 2,
+        "slug": "who-is-setting-your-frame",
+        "subtitle": "Your permission slip to enjoy learning and using AI",
+        "wordcount": 1614
+      },
+      "record_id": "s01-substack-r000089",
+      "source_id": "197884420",
+      "source_type": "substack",
+      "text": "Who is setting your frame?\n\nYour permission slip to enjoy learning and using AI",
+      "timestamp": "2026-05-18T17:27:34.642Z",
+      "title": "Who is setting your frame?",
+      "uri": "https://hitchhikertothefuture.substack.com/p/who-is-setting-your-frame"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-05-20-my-cat-runs-his-twitter-account-now.md",
+        "raw_path": "raw/198558175.json",
+        "reaction_count": 0,
+        "slug": "my-cat-runs-his-twitter-account-now",
+        "subtitle": "I'm starting my Journalist Arc",
+        "wordcount": 649
+      },
+      "record_id": "s01-substack-r000090",
+      "source_id": "198558175",
+      "source_type": "substack",
+      "text": "My Cat Runs His Twitter Account Now\n\nI'm starting my Journalist Arc",
+      "timestamp": "2026-05-20T22:02:51.779Z",
+      "title": "My Cat Runs His Twitter Account Now",
+      "uri": "https://hitchhikertothefuture.substack.com/p/my-cat-runs-his-twitter-account-now"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-05-25-what-gets-scarce-when-proof-gets.md",
+        "raw_path": "raw/198893165.json",
+        "reaction_count": 0,
+        "slug": "what-gets-scarce-when-proof-gets",
+        "subtitle": "A letter to my bodega cat about the end of math, and his reply",
+        "wordcount": 1700
+      },
+      "record_id": "s01-substack-r000091",
+      "source_id": "198893165",
+      "source_type": "substack",
+      "text": "What gets scarce when proof gets cheap\n\nA letter to my bodega cat about the end of math, and his reply",
+      "timestamp": "2026-05-25T12:28:18.793Z",
+      "title": "What gets scarce when proof gets cheap",
+      "uri": "https://hitchhikertothefuture.substack.com/p/what-gets-scarce-when-proof-gets"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-06-01-let-them-eat-kibble.md",
+        "raw_path": "raw/199354153.json",
+        "reaction_count": 1,
+        "slug": "let-them-eat-kibble",
+        "subtitle": "Don't let cats drive rockets",
+        "wordcount": 1860
+      },
+      "record_id": "s01-substack-r000092",
+      "source_id": "199354153",
+      "source_type": "substack",
+      "text": "Let Them Eat Kibble\n\nDon't let cats drive rockets",
+      "timestamp": "2026-06-01T13:30:43.750Z",
+      "title": "Let Them Eat Kibble",
+      "uri": "https://hitchhikertothefuture.substack.com/p/let-them-eat-kibble"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-06-06-the-power-of-a-mirror.md",
+        "raw_path": "raw/200833507.json",
+        "reaction_count": 3,
+        "slug": "the-power-of-a-mirror",
+        "subtitle": "You have a choice: do you change what you see?",
+        "wordcount": 1425
+      },
+      "record_id": "s01-substack-r000093",
+      "source_id": "200833507",
+      "source_type": "substack",
+      "text": "The Power of a Mirror\n\nYou have a choice: do you change what you see?",
+      "timestamp": "2026-06-06T03:12:28.658Z",
+      "title": "The Power of a Mirror",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-power-of-a-mirror"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-06-09-dont-be-a-duck-at-a-swim-meet.md",
+        "raw_path": "raw/201205926.json",
+        "reaction_count": 0,
+        "slug": "dont-be-a-duck-at-a-swim-meet",
+        "subtitle": "Are you racing or paddling around in circles?",
+        "wordcount": 459
+      },
+      "record_id": "s01-substack-r000094",
+      "source_id": "201205926",
+      "source_type": "substack",
+      "text": "Don't Be a Duck at a Swim Meet\n\nAre you racing or paddling around in circles?",
+      "timestamp": "2026-06-09T12:49:21.024Z",
+      "title": "Don't Be a Duck at a Swim Meet",
+      "uri": "https://hitchhikertothefuture.substack.com/p/dont-be-a-duck-at-a-swim-meet"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2026-06-15-welcome-to-the-great-online-game.md",
+        "raw_path": "raw/202045615.json",
+        "reaction_count": 0,
+        "slug": "welcome-to-the-great-online-game",
+        "subtitle": "It's time to see it.",
+        "wordcount": 544
+      },
+      "record_id": "s01-substack-r000095",
+      "source_id": "202045615",
+      "source_type": "substack",
+      "text": "Welcome to the Great Online Game. \n\nIt's time to see it.",
+      "timestamp": "2026-06-15T12:32:55.550Z",
+      "title": "Welcome to the Great Online Game. ",
+      "uri": "https://hitchhikertothefuture.substack.com/p/welcome-to-the-great-online-game"
+    }
+  ],
+  "schema_version": "datamine.block.v1",
+  "source_adapter": "substack-block-adapter@0.1.0",
+  "source_config": {
+    "block_id": "hitchhikertothefuture-substack",
+    "fetch_bodies": false,
+    "out": "/Users/leoguinan/Projects/substack-mirrors/hitchhikertothefuture-substack-block/mirror",
+    "publication": "https://hitchhikertothefuture.substack.com",
+    "source_id_prefix": "s01-substack"
+  },
+  "source_config_fingerprint": "69068262ab929103d906139eee59455865f972732435771b2d277ffb46859bf3",
+  "title": "Substack mirror: https://hitchhikertothefuture.substack.com"
+}
