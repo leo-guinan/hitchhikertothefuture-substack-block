@@ -17,8 +17,11 @@ jobs:
         with:
           python-version: "3.11"
       - name: Install adapter
-        run: python -m pip install git+https://github.com/Marvin-The-Bodega-Cat/substack-block-adapter.git@v0.2.1
-      - name: Update mirror
+        run: python -m pip install git+https://github.com/Marvin-The-Bodega-Cat/substack-block-adapter.git@v0.2.2
+      - name: Update mirror via VPS RSS webhook
+        env:
+          SUBSTACK_BLOCK_RSS_WEBHOOK_URL: https://arcade.entropypress.xyz/rss-webhook/rss/fetch
+          SUBSTACK_BLOCK_RSS_WEBHOOK_TOKEN: ${{ secrets.SUBSTACK_BLOCK_RSS_WEBHOOK_TOKEN }}
         run: substack-block watch --config substack-block.toml
       - name: Commit mirror changes
         run: |
