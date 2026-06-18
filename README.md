@@ -12,7 +12,7 @@ Generated with [`substack-block-adapter`](https://github.com/Marvin-The-Bodega-C
 - `mirror/raw/` — raw Substack archive API JSON per post.
 - `mirror/receipts/scrape_completeness_report.json` — falsifiable scrape gate.
 - `mirror/receipts/update_receipt.json` — last mirror run receipt.
-- `.github/workflows/weekly-substack-mirror.yml` — weekly watcher that updates this repo.
+- `WATCHER.md` — operational watcher receipt.
 
 ## Current mirror receipt
 
@@ -35,4 +35,4 @@ python -m pip install git+https://github.com/Marvin-The-Bodega-Cat/substack-bloc
 substack-block watch --config substack-block.toml
 ```
 
-The weekly GitHub Action commits new posts if the mirror changes.
+A local Hermes cron watcher commits and pushes new posts if the ordered post set changes. See `WATCHER.md`.
