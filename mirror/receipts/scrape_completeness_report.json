@@ -1,5 +1,5 @@
 {
-  "api_missing_from_sitemap_count": 0,
+  "api_missing_from_sitemap_count": null,
   "api_missing_from_sitemap_sample": [],
   "block_path": "block.json",
   "body_errors": [],
@@ -10,17 +10,17 @@
   },
   "fetch_bodies": false,
   "fetched_bodies": 0,
-  "generated_at": "2026-06-18T16:34:04Z",
+  "generated_at": "2026-06-18T16:34:47Z",
   "index_path": "index.json",
   "latest_feed_posts": 20,
   "offset_probe": [],
   "publication": "https://hitchhikertothefuture.substack.com",
   "rss_latest_gate_passed": true,
   "schema_version": "substack.scrape_completeness.v1",
-  "sitemap_error": null,
-  "sitemap_missing_from_api_count": 0,
+  "sitemap_error": "failed to fetch text https://hitchhikertothefuture.substack.com/sitemap.xml: HTTP Error 403: Forbidden",
+  "sitemap_missing_from_api_count": null,
   "sitemap_missing_from_api_sample": [],
-  "sitemap_post_url_count": 95,
+  "sitemap_post_url_count": 0,
   "source_mode": "rss_latest",
   "source_probe": [
     {
