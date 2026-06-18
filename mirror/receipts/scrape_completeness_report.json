@@ -10,41 +10,26 @@
   },
   "fetch_bodies": false,
   "fetched_bodies": 0,
-  "generated_at": "2026-06-18T15:24:22Z",
+  "generated_at": "2026-06-18T16:23:21Z",
   "index_path": "index.json",
-  "offset_probe": [
-    {
-      "new": 23,
-      "offset": 0,
-      "returned": 23
-    },
-    {
-      "new": 37,
-      "offset": 20,
-      "returned": 40
-    },
-    {
-      "new": 20,
-      "offset": 40,
-      "returned": 40
-    },
-    {
-      "new": 15,
-      "offset": 60,
-      "returned": 35
-    },
-    {
-      "new": 0,
-      "offset": 80,
-      "returned": 15
-    }
-  ],
+  "latest_feed_posts": 20,
+  "offset_probe": [],
   "publication": "https://hitchhikertothefuture.substack.com",
+  "rss_latest_gate_passed": true,
   "schema_version": "substack.scrape_completeness.v1",
   "sitemap_error": null,
   "sitemap_missing_from_api_count": 0,
   "sitemap_missing_from_api_sample": [],
   "sitemap_post_url_count": 95,
-  "terminated_on_zero_new_batch": true,
-  "total_api_posts": 95
+  "source_mode": "rss_latest",
+  "source_probe": [
+    {
+      "new": 20,
+      "offset": 0,
+      "returned": 20
+    }
+  ],
+  "terminated_on_zero_new_batch": null,
+  "total_api_posts": null,
+  "total_source_posts": 95
 }

@@ -1,6 +1,6 @@
 {
   "block_id": "hitchhikertothefuture-substack",
-  "created_at": "2026-06-18T15:24:22Z",
+  "created_at": "2026-06-18T16:23:21Z",
   "records": [
     {
       "metadata": {
@@ -1714,14 +1714,15 @@
     }
   ],
   "schema_version": "datamine.block.v1",
-  "source_adapter": "substack-block-adapter@0.1.0",
+  "source_adapter": "substack-block-adapter@0.2.0",
   "source_config": {
     "block_id": "hitchhikertothefuture-substack",
     "fetch_bodies": false,
-    "out": "/Users/leoguinan/Projects/substack-mirrors/hitchhikertothefuture-substack-block/mirror",
+    "out": "mirror",
     "publication": "https://hitchhikertothefuture.substack.com",
-    "source_id_prefix": "s01-substack"
+    "source_id_prefix": "s01-substack",
+    "source_mode": "rss_latest"
   },
-  "source_config_fingerprint": "69068262ab929103d906139eee59455865f972732435771b2d277ffb46859bf3",
+  "source_config_fingerprint": "50a9ddee987abe1dc36dd4a442b436697ee0e8d8a179c3646ba48e03b0abd79b",
   "title": "Substack mirror: https://hitchhikertothefuture.substack.com"
 }

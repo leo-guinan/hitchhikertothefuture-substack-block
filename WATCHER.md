@@ -1,8 +1,8 @@
 # Watcher
 
-This mirror is updated by a local Hermes cron watcher, not by GitHub-hosted Actions.
+This mirror is updated by `substack-block` in `rss_latest` watcher mode.
 
-Why: GitHub-hosted runners currently receive `HTTP Error 403: Forbidden` from Substack's archive API for `hitchhikertothefuture.substack.com`. The local adapter run succeeds and passes the sitemap completeness gate. Pretending the GitHub Action works would be tidy and false, a common but unlovely combination.
+Why: GitHub-hosted runners received `HTTP Error 403: Forbidden` from Substack's archive API for `hitchhikertothefuture.substack.com`. The archive API remains useful for initial full cuts; the built-in Substack RSS feed is the right scheduled-update source because it exposes the latest posts without needing archive pagination. Beige, but load-bearing.
 
 Hermes cron job:
 
