@@ -1,6 +1,6 @@
 {
   "block_id": "hitchhikertothefuture-substack",
-  "created_at": "2026-06-29T10:58:58Z",
+  "created_at": "2026-07-06T10:56:25Z",
   "records": [
     {
       "metadata": {
@@ -1711,6 +1711,24 @@
       "timestamp": "2026-06-15T12:32:55.550Z",
       "title": "Welcome to the Great Online Game. ",
       "uri": "https://hitchhikertothefuture.substack.com/p/welcome-to-the-great-online-game"
+    },
+    {
+      "metadata": {
+        "comment_count": null,
+        "markdown_path": "posts/2026-07-01-what-does-slop-mean-to-you.md",
+        "raw_path": "raw/https-hitchhikertothefuture-substack-com-p-what-does-slop-mean-to-you.json",
+        "reaction_count": null,
+        "slug": "what-does-slop-mean-to-you",
+        "subtitle": "",
+        "wordcount": null
+      },
+      "record_id": "s01-substack-r000096",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/what-does-slop-mean-to-you",
+      "source_type": "substack",
+      "text": "What Does Slop Mean To You",
+      "timestamp": "2026-07-01T12:25:58Z",
+      "title": "What Does Slop Mean To You",
+      "uri": "https://hitchhikertothefuture.substack.com/p/what-does-slop-mean-to-you"
     }
   ],
   "schema_version": "datamine.block.v1",

@@ -1,7 +1,7 @@
 {
   "block_id": "hitchhikertothefuture-substack",
-  "generated_at": "2026-06-29T10:58:58Z",
-  "post_count": 95,
+  "generated_at": "2026-07-06T10:56:25Z",
+  "post_count": 96,
   "posts": [
     {
       "markdown_path": "posts/2025-06-04-coming-soon.md",
@@ -762,6 +762,14 @@
       "timestamp": "2026-06-15T12:32:55.550Z",
       "title": "Welcome to the Great Online Game. ",
       "uri": "https://hitchhikertothefuture.substack.com/p/welcome-to-the-great-online-game"
+    },
+    {
+      "markdown_path": "posts/2026-07-01-what-does-slop-mean-to-you.md",
+      "record_id": "s01-substack-r000096",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/what-does-slop-mean-to-you",
+      "timestamp": "2026-07-01T12:25:58Z",
+      "title": "What Does Slop Mean To You",
+      "uri": "https://hitchhikertothefuture.substack.com/p/what-does-slop-mean-to-you"
     }
   ],
   "publication": "https://hitchhikertothefuture.substack.com",

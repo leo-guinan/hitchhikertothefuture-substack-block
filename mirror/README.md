@@ -1,8 +1,8 @@
 # Substack mirror: https://hitchhikertothefuture.substack.com
 
-Generated at: 2026-06-29T10:58:58Z
+Generated at: 2026-07-06T10:56:25Z
 
-Posts mirrored: 95
+Posts mirrored: 96
 
 Block: `block.json`
 
