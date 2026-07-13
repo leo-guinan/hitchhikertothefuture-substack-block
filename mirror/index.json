@@ -1,7 +1,7 @@
 {
   "block_id": "hitchhikertothefuture-substack",
-  "generated_at": "2026-07-06T10:56:25Z",
-  "post_count": 96,
+  "generated_at": "2026-07-13T12:17:34Z",
+  "post_count": 102,
   "posts": [
     {
       "markdown_path": "posts/2025-06-04-coming-soon.md",
@@ -770,6 +770,54 @@
       "timestamp": "2026-07-01T12:25:58Z",
       "title": "What Does Slop Mean To You",
       "uri": "https://hitchhikertothefuture.substack.com/p/what-does-slop-mean-to-you"
+    },
+    {
+      "markdown_path": "posts/2026-07-06-is-the-world-cup-a-fair-competition.md",
+      "record_id": "s01-substack-r000097",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/is-the-world-cup-a-fair-competition",
+      "timestamp": "2026-07-06T13:11:36Z",
+      "title": "Is The World Cup A Fair Competition",
+      "uri": "https://hitchhikertothefuture.substack.com/p/is-the-world-cup-a-fair-competition"
+    },
+    {
+      "markdown_path": "posts/2026-07-08-its-time-to-stop-mining-humans-for.md",
+      "record_id": "s01-substack-r000098",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/its-time-to-stop-mining-humans-for",
+      "timestamp": "2026-07-08T11:50:05Z",
+      "title": "Its Time To Stop Mining Humans For",
+      "uri": "https://hitchhikertothefuture.substack.com/p/its-time-to-stop-mining-humans-for"
+    },
+    {
+      "markdown_path": "posts/2026-07-09-a-review-of-white-mirror.md",
+      "record_id": "s01-substack-r000099",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/a-review-of-white-mirror",
+      "timestamp": "2026-07-09T16:37:10Z",
+      "title": "A Review Of White Mirror",
+      "uri": "https://hitchhikertothefuture.substack.com/p/a-review-of-white-mirror"
+    },
+    {
+      "markdown_path": "posts/2026-07-10-what-is-time.md",
+      "record_id": "s01-substack-r000100",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/what-is-time",
+      "timestamp": "2026-07-10T11:33:25Z",
+      "title": "What Is Time",
+      "uri": "https://hitchhikertothefuture.substack.com/p/what-is-time"
+    },
+    {
+      "markdown_path": "posts/2026-07-12-the-alignment-test.md",
+      "record_id": "s01-substack-r000101",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/the-alignment-test",
+      "timestamp": "2026-07-12T18:22:01Z",
+      "title": "The Alignment Test",
+      "uri": "https://hitchhikertothefuture.substack.com/p/the-alignment-test"
+    },
+    {
+      "markdown_path": "posts/2026-07-13-who-are-you-competing-with.md",
+      "record_id": "s01-substack-r000102",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/who-are-you-competing-with",
+      "timestamp": "2026-07-13T11:00:37Z",
+      "title": "Who Are You Competing With",
+      "uri": "https://hitchhikertothefuture.substack.com/p/who-are-you-competing-with"
     }
   ],
   "publication": "https://hitchhikertothefuture.substack.com",
