@@ -5,12 +5,12 @@
   "body_errors": [],
   "completeness_gate_passed": true,
   "date_range": {
-    "max": "2026-07-13T11:00:37Z",
+    "max": "2026-07-16T11:29:43Z",
     "min": "2025-06-04T14:48:10.557Z"
   },
   "fetch_bodies": false,
   "fetched_bodies": 0,
-  "generated_at": "2026-07-13T12:17:34Z",
+  "generated_at": "2026-07-20T11:59:12Z",
   "index_path": "index.json",
   "latest_feed_posts": 20,
   "offset_probe": [],
@@ -31,5 +31,5 @@
   ],
   "terminated_on_zero_new_batch": null,
   "total_api_posts": null,
-  "total_source_posts": 102
+  "total_source_posts": 103
 }

@@ -1,7 +1,7 @@
 {
   "block_id": "hitchhikertothefuture-substack",
-  "generated_at": "2026-07-13T12:17:34Z",
-  "post_count": 102,
+  "generated_at": "2026-07-20T11:59:12Z",
+  "post_count": 103,
   "posts": [
     {
       "markdown_path": "posts/2025-06-04-coming-soon.md",
@@ -818,6 +818,14 @@
       "timestamp": "2026-07-13T11:00:37Z",
       "title": "Who Are You Competing With",
       "uri": "https://hitchhikertothefuture.substack.com/p/who-are-you-competing-with"
+    },
+    {
+      "markdown_path": "posts/2026-07-16-how-do-you-make-a-billion-dollars.md",
+      "record_id": "s01-substack-r000103",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/how-do-you-make-a-billion-dollars",
+      "timestamp": "2026-07-16T11:29:43Z",
+      "title": "How Do You Make A Billion Dollars",
+      "uri": "https://hitchhikertothefuture.substack.com/p/how-do-you-make-a-billion-dollars"
     }
   ],
   "publication": "https://hitchhikertothefuture.substack.com",
