@@ -1,6 +1,6 @@
 {
   "block_id": "hitchhikertothefuture-substack",
-  "created_at": "2026-07-20T11:59:12Z",
+  "created_at": "2026-07-27T12:37:33Z",
   "records": [
     {
       "metadata": {
@@ -1855,6 +1855,96 @@
       "timestamp": "2026-07-16T11:29:43Z",
       "title": "How Do You Make A Billion Dollars",
       "uri": "https://hitchhikertothefuture.substack.com/p/how-do-you-make-a-billion-dollars"
+    },
+    {
+      "metadata": {
+        "comment_count": null,
+        "markdown_path": "posts/2026-07-22-welcome-to-part-2-of-the-future.md",
+        "raw_path": "raw/https-hitchhikertothefuture-substack-com-p-welcome-to-part-2-of-the-future.json",
+        "reaction_count": null,
+        "slug": "welcome-to-part-2-of-the-future",
+        "subtitle": "",
+        "wordcount": null
+      },
+      "record_id": "s01-substack-r000104",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/welcome-to-part-2-of-the-future",
+      "source_type": "substack",
+      "text": "Welcome To Part 2 Of The Future",
+      "timestamp": "2026-07-22T14:51:48Z",
+      "title": "Welcome To Part 2 Of The Future",
+      "uri": "https://hitchhikertothefuture.substack.com/p/welcome-to-part-2-of-the-future"
+    },
+    {
+      "metadata": {
+        "comment_count": null,
+        "markdown_path": "posts/2026-07-23-welcome-to-the-time-war.md",
+        "raw_path": "raw/https-hitchhikertothefuture-substack-com-p-welcome-to-the-time-war.json",
+        "reaction_count": null,
+        "slug": "welcome-to-the-time-war",
+        "subtitle": "",
+        "wordcount": null
+      },
+      "record_id": "s01-substack-r000105",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/welcome-to-the-time-war",
+      "source_type": "substack",
+      "text": "Welcome To The Time War",
+      "timestamp": "2026-07-23T18:14:26Z",
+      "title": "Welcome To The Time War",
+      "uri": "https://hitchhikertothefuture.substack.com/p/welcome-to-the-time-war"
+    },
+    {
+      "metadata": {
+        "comment_count": null,
+        "markdown_path": "posts/2026-07-24-design-a-sustainable-game-of-life.md",
+        "raw_path": "raw/https-hitchhikertothefuture-substack-com-p-design-a-sustainable-game-of-life.json",
+        "reaction_count": null,
+        "slug": "design-a-sustainable-game-of-life",
+        "subtitle": "",
+        "wordcount": null
+      },
+      "record_id": "s01-substack-r000106",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/design-a-sustainable-game-of-life",
+      "source_type": "substack",
+      "text": "Design A Sustainable Game Of Life",
+      "timestamp": "2026-07-24T22:50:58Z",
+      "title": "Design A Sustainable Game Of Life",
+      "uri": "https://hitchhikertothefuture.substack.com/p/design-a-sustainable-game-of-life"
+    },
+    {
+      "metadata": {
+        "comment_count": null,
+        "markdown_path": "posts/2026-07-25-we-need-more-billionaires.md",
+        "raw_path": "raw/https-hitchhikertothefuture-substack-com-p-we-need-more-billionaires.json",
+        "reaction_count": null,
+        "slug": "we-need-more-billionaires",
+        "subtitle": "",
+        "wordcount": null
+      },
+      "record_id": "s01-substack-r000107",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/we-need-more-billionaires",
+      "source_type": "substack",
+      "text": "We Need More Billionaires",
+      "timestamp": "2026-07-25T19:52:37Z",
+      "title": "We Need More Billionaires",
+      "uri": "https://hitchhikertothefuture.substack.com/p/we-need-more-billionaires"
+    },
+    {
+      "metadata": {
+        "comment_count": null,
+        "markdown_path": "posts/2026-07-26-should-you-play-through-the-pain.md",
+        "raw_path": "raw/https-hitchhikertothefuture-substack-com-p-should-you-play-through-the-pain.json",
+        "reaction_count": null,
+        "slug": "should-you-play-through-the-pain",
+        "subtitle": "",
+        "wordcount": null
+      },
+      "record_id": "s01-substack-r000108",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/should-you-play-through-the-pain",
+      "source_type": "substack",
+      "text": "Should You Play Through The Pain",
+      "timestamp": "2026-07-26T22:38:54Z",
+      "title": "Should You Play Through The Pain",
+      "uri": "https://hitchhikertothefuture.substack.com/p/should-you-play-through-the-pain"
     }
   ],
   "schema_version": "datamine.block.v1",
