@@ -1,6 +1,6 @@
 {
   "block_id": "hitchhikertothefuture-substack",
-  "created_at": "2026-08-03T12:36:50Z",
+  "created_at": "2026-08-10T10:37:42Z",
   "records": [
     {
       "metadata": {
@@ -2071,6 +2071,78 @@
       "timestamp": "2026-08-03T02:20:23Z",
       "title": "Building The Stepping Stones",
       "uri": "https://hitchhikertothefuture.substack.com/p/building-the-stepping-stones"
+    },
+    {
+      "metadata": {
+        "comment_count": null,
+        "markdown_path": "posts/2026-08-04-thinking-in-public.md",
+        "raw_path": "raw/https-hitchhikertothefuture-substack-com-p-thinking-in-public.json",
+        "reaction_count": null,
+        "slug": "thinking-in-public",
+        "subtitle": "",
+        "wordcount": null
+      },
+      "record_id": "s01-substack-r000116",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/thinking-in-public",
+      "source_type": "substack",
+      "text": "Thinking In Public",
+      "timestamp": "2026-08-04T01:04:50Z",
+      "title": "Thinking In Public",
+      "uri": "https://hitchhikertothefuture.substack.com/p/thinking-in-public"
+    },
+    {
+      "metadata": {
+        "comment_count": null,
+        "markdown_path": "posts/2026-08-05-how-ambitious-are-you.md",
+        "raw_path": "raw/https-hitchhikertothefuture-substack-com-p-how-ambitious-are-you.json",
+        "reaction_count": null,
+        "slug": "how-ambitious-are-you",
+        "subtitle": "",
+        "wordcount": null
+      },
+      "record_id": "s01-substack-r000117",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/how-ambitious-are-you",
+      "source_type": "substack",
+      "text": "How Ambitious Are You",
+      "timestamp": "2026-08-05T03:47:41Z",
+      "title": "How Ambitious Are You",
+      "uri": "https://hitchhikertothefuture.substack.com/p/how-ambitious-are-you"
+    },
+    {
+      "metadata": {
+        "comment_count": null,
+        "markdown_path": "posts/2026-08-05-why-do-puzzles-matter.md",
+        "raw_path": "raw/https-hitchhikertothefuture-substack-com-p-why-do-puzzles-matter.json",
+        "reaction_count": null,
+        "slug": "why-do-puzzles-matter",
+        "subtitle": "",
+        "wordcount": null
+      },
+      "record_id": "s01-substack-r000118",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/why-do-puzzles-matter",
+      "source_type": "substack",
+      "text": "Why Do Puzzles Matter",
+      "timestamp": "2026-08-05T19:15:31Z",
+      "title": "Why Do Puzzles Matter",
+      "uri": "https://hitchhikertothefuture.substack.com/p/why-do-puzzles-matter"
+    },
+    {
+      "metadata": {
+        "comment_count": null,
+        "markdown_path": "posts/2026-08-08-so-long-and-thanks-for-all-the-fish.md",
+        "raw_path": "raw/https-hitchhikertothefuture-substack-com-p-so-long-and-thanks-for-all-the-fish.json",
+        "reaction_count": null,
+        "slug": "so-long-and-thanks-for-all-the-fish",
+        "subtitle": "",
+        "wordcount": null
+      },
+      "record_id": "s01-substack-r000119",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/so-long-and-thanks-for-all-the-fish",
+      "source_type": "substack",
+      "text": "So Long And Thanks For All The Fish",
+      "timestamp": "2026-08-08T20:29:10Z",
+      "title": "So Long And Thanks For All The Fish",
+      "uri": "https://hitchhikertothefuture.substack.com/p/so-long-and-thanks-for-all-the-fish"
     }
   ],
   "schema_version": "datamine.block.v1",

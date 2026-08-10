@@ -1,7 +1,7 @@
 {
   "block_id": "hitchhikertothefuture-substack",
-  "generated_at": "2026-08-03T12:36:50Z",
-  "post_count": 115,
+  "generated_at": "2026-08-10T10:37:42Z",
+  "post_count": 119,
   "posts": [
     {
       "markdown_path": "posts/2025-06-04-coming-soon.md",
@@ -922,6 +922,38 @@
       "timestamp": "2026-08-03T02:20:23Z",
       "title": "Building The Stepping Stones",
       "uri": "https://hitchhikertothefuture.substack.com/p/building-the-stepping-stones"
+    },
+    {
+      "markdown_path": "posts/2026-08-04-thinking-in-public.md",
+      "record_id": "s01-substack-r000116",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/thinking-in-public",
+      "timestamp": "2026-08-04T01:04:50Z",
+      "title": "Thinking In Public",
+      "uri": "https://hitchhikertothefuture.substack.com/p/thinking-in-public"
+    },
+    {
+      "markdown_path": "posts/2026-08-05-how-ambitious-are-you.md",
+      "record_id": "s01-substack-r000117",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/how-ambitious-are-you",
+      "timestamp": "2026-08-05T03:47:41Z",
+      "title": "How Ambitious Are You",
+      "uri": "https://hitchhikertothefuture.substack.com/p/how-ambitious-are-you"
+    },
+    {
+      "markdown_path": "posts/2026-08-05-why-do-puzzles-matter.md",
+      "record_id": "s01-substack-r000118",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/why-do-puzzles-matter",
+      "timestamp": "2026-08-05T19:15:31Z",
+      "title": "Why Do Puzzles Matter",
+      "uri": "https://hitchhikertothefuture.substack.com/p/why-do-puzzles-matter"
+    },
+    {
+      "markdown_path": "posts/2026-08-08-so-long-and-thanks-for-all-the-fish.md",
+      "record_id": "s01-substack-r000119",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/so-long-and-thanks-for-all-the-fish",
+      "timestamp": "2026-08-08T20:29:10Z",
+      "title": "So Long And Thanks For All The Fish",
+      "uri": "https://hitchhikertothefuture.substack.com/p/so-long-and-thanks-for-all-the-fish"
     }
   ],
   "publication": "https://hitchhikertothefuture.substack.com",
