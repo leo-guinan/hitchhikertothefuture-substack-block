@@ -1,6 +1,6 @@
 # Substack mirror: https://hitchhikertothefuture.substack.com
 
-Generated at: 2026-08-10T10:37:42Z
+Generated at: 2026-08-17T09:59:24Z
 
 Posts mirrored: 119
 
