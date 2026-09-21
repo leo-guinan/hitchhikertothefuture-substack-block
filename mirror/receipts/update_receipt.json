@@ -1,10 +1,10 @@
 {
-  "created_at": "2026-09-14T15:54:26Z",
+  "created_at": "2026-09-21T15:55:09Z",
   "evidence": [
     "block.json",
     "index.json",
     "receipts/scrape_completeness_report.json"
   ],
   "promise": "Mirror Substack archive into markdown/raw files and produce a Data Mine block.",
-  "result": "Mirrored 119 posts from https://hitchhikertothefuture.substack.com; completeness_gate_passed=True."
+  "result": "Mirrored 120 posts from https://hitchhikertothefuture.substack.com; completeness_gate_passed=True."
 }
