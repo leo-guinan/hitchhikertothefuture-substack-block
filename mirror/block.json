@@ -1,6 +1,6 @@
 {
   "block_id": "hitchhikertothefuture-substack",
-  "created_at": "2026-09-21T15:55:09Z",
+  "created_at": "2026-09-28T17:40:58Z",
   "records": [
     {
       "metadata": {
@@ -2161,6 +2161,24 @@
       "timestamp": "2026-09-16T17:27:36Z",
       "title": "The Psyop Is Alive Whats Next",
       "uri": "https://hitchhikertothefuture.substack.com/p/the-psyop-is-alive-whats-next"
+    },
+    {
+      "metadata": {
+        "comment_count": null,
+        "markdown_path": "posts/2026-09-25-you-have-a-choice-are-you-going-to.md",
+        "raw_path": "raw/https-hitchhikertothefuture-substack-com-p-you-have-a-choice-are-you-going-to.json",
+        "reaction_count": null,
+        "slug": "you-have-a-choice-are-you-going-to",
+        "subtitle": "",
+        "wordcount": null
+      },
+      "record_id": "s01-substack-r000121",
+      "source_id": "https://hitchhikertothefuture.substack.com/p/you-have-a-choice-are-you-going-to",
+      "source_type": "substack",
+      "text": "You Have A Choice Are You Going To",
+      "timestamp": "2026-09-25T16:51:40Z",
+      "title": "You Have A Choice Are You Going To",
+      "uri": "https://hitchhikertothefuture.substack.com/p/you-have-a-choice-are-you-going-to"
     }
   ],
   "schema_version": "datamine.block.v1",
